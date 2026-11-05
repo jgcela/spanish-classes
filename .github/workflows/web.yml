@@ -18,6 +18,8 @@ concurrency:
 jobs:
   construir:
     runs-on: ubuntu-latest
+    env:
+      HAY_FTP: ${{ secrets.FTP_SERVER != '' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -56,9 +58,7 @@ jobs:
       # secretos FTP_SERVER, FTP_USERNAME y FTP_PASSWORD (opcional FTP_DIR,
       # carpeta de destino; por defecto /public_html/espanol/).
       - name: Subir a mi web por FTP
-        if: github.event_name != 'pull_request' && env.FTP_SERVER != ''
-        env:
-          FTP_SERVER: ${{ secrets.FTP_SERVER }}
+        if: github.event_name != 'pull_request' && env.HAY_FTP == 'true'
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
