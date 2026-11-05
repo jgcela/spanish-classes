@@ -5,6 +5,11 @@ on:
     branches: [main]
   pull_request:
   workflow_dispatch:
+    inputs:
+      diagnostico:
+        description: "Solo listar el servidor SFTP, sin subir nada"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -80,21 +85,10 @@ jobs:
           name: pasaporte-al-espanol-html
           path: paquete/
 
-      # Sube el paquete a tu propia web por FTP. Solo en main y si existen los
-      # secretos FTP_SERVER, FTP_USERNAME y FTP_PASSWORD (opcionales FTP_DIR,
-      # carpeta de destino, por defecto /public_html/javiercela-me/spanish/,
-      # y FTP_PORT, por defecto 22). El servidor solo admite SFTP.
-      - name: Carpeta de destino FTP
-        id: carpeta
-        if: env.HAY_FTP == 'true'
-        env:
-          FTP_DIR: ${{ secrets.FTP_DIR }}
-        run: |
-          dir="${FTP_DIR:-/public_html/javiercela-me/spanish/}"
-          dir="$(echo "$dir" | xargs)"
-          case "$dir" in */) ;; *) dir="$dir/" ;; esac
-          echo "dir=$dir" >> "$GITHUB_OUTPUT"
-
+      # Sube el paquete a la web propia por SFTP. Solo en main y si existen los
+      # secretos FTP_SERVER, FTP_USERNAME y FTP_PASSWORD (opcional FTP_PORT,
+      # por defecto 22). El usuario SFTP de IONOS está limitado a la carpeta
+      # javiercela-me/spanish, así que para él esa carpeta es la raíz "/".
       - name: Subir a mi web por SFTP
         if: env.HAY_FTP == 'true'
         env:
@@ -102,14 +96,28 @@ jobs:
           USUARIO: ${{ secrets.FTP_USERNAME }}
           CLAVE: ${{ secrets.FTP_PASSWORD }}
           PUERTO: ${{ secrets.FTP_PORT }}
-          DESTINO: ${{ steps.carpeta.outputs.dir }}
+          DESTINO: /
         run: |
           sudo apt-get update -qq > /dev/null && sudo apt-get install -y -qq lftp > /dev/null
+          # Permisos estándar de hosting: carpetas 755 y archivos 644.
+          # Con otros permisos (p. ej. 775/664) muchos servidores responden 403 Forbidden.
+          find paquete/pasaporte-al-espanol -type d -exec chmod 755 {} +
+          find paquete/pasaporte-al-espanol -type f -exec chmod 644 {} +
           servidor="$(echo "$SERVIDOR" | xargs | sed -E 's#^(s?ftp|sftp)://##; s#/.*$##')"
+          if [ "${{ inputs.diagnostico }}" = "true" ]; then
+            lftp -p "${PUERTO:-22}" -u "$USUARIO","$CLAVE" "sftp://$servidor" -e "
+              set sftp:auto-confirm yes;
+              echo '--- pwd'; pwd;
+              echo '--- /'; cls -l /;
+              echo '--- /public_html'; cls -l /public_html/;
+              echo '--- destino'; cls -l '$DESTINO';
+              quit" || true
+            exit 0
+          fi
           lftp -p "${PUERTO:-22}" -u "$USUARIO","$CLAVE" "sftp://$servidor" -e "
             set sftp:auto-confirm yes;
             set net:max-retries 2;
             set net:timeout 30;
-            mkdir -p -f '$DESTINO';
             mirror --reverse --parallel=5 --verbose=1 paquete/pasaporte-al-espanol/ '$DESTINO';
+            cls -l '$DESTINO';
             quit"
