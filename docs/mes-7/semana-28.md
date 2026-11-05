@@ -14,7 +14,7 @@
 
 **Reciclaje obligatorio:** colores y concordancia (mes 4) en los productos (*una alfombra roja*); *es / tiene* (mes 5) para describir lo que se vende; *puedo* (mes 6) en *¿Puedo pagar con un billete?*
 
-**Fecha:** con las vacaciones en Semana Santa, esta semana es del **5 al 9 de abril de 2027** [Suponiendo]. El mercado es el viernes; si las familias no pueden venir a esa hora, muévelo a la hora de recogida y acorta el bloque D.
+**Fecha:** el mercado es el viernes; si las familias no pueden venir a esa hora, muévelo a la hora de recogida y acorta el bloque D.
 
 **Preparación total de la semana:** unas 4 h (carteles, dinero de las familias, sala, folleto de lectura).
 
@@ -216,4 +216,4 @@ Detalle de dinero, precios y turnos en los [anexos](anexos.md#organización-del-
 - Pasa a YA LO SÉ los números del 20 al 100 si todos los dominan y *¿Cuánto cuesta?*. Las preposiciones quedan en ESTE MES: vuelven con los muebles del bloque 8.
 - Guarda los carteles y el dinero: el bloque 8 los reutiliza en la feria del libro.
 - Informe mensual a las familias; cierre de la caja del bloque.
-- **Antes del bloque 8:** confirma la semana de **Sant Jordi** (viernes 23 de abril de 2027) y empieza a **recoger audios para la cápsula del tiempo final** ([Fase 5](../fase-5/preparacion.md#4-calendario-del-curso-vista-de-la-profesora)).
+- **Antes del bloque 8:** confirma qué semana cae **Sant Jordi** (23 de abril) y empieza a **recoger audios para la cápsula del tiempo final** ([Fase 5](../fase-5/preparacion.md#4-calendario-del-curso-vista-de-la-profesora)).

@@ -12,9 +12,7 @@
 
 **Estación de reto:** "El rosco del curso" (ver README).
 
-**Calendario:** si el curso sigue lo previsto, esta semana es del **31 de mayo al 4 de junio de 2027** [Suponiendo].
-
-### Si el lunes es festivo (Memorial Day, 31 de mayo de 2027)
+### Si el lunes es festivo (por ejemplo, Memorial Day)
 
 | Día | Qué se hace |
 |---|---|

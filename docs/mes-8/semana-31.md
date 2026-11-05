@@ -9,7 +9,7 @@
 - [Probable] La **capirotada** (México) es un pudin de pan con un almíbar de **piloncillo** (azúcar de caña sin refinar) y canela; según la región lleva queso, pasas, cacahuetes o nueces. Se come en Cuaresma.
 - [Seguro] Las dos aprovechan **pan duro**: en una casa no se tira el pan. Buen enlace con la gratitud del mes 3 y con la virtud de no desperdiciar.
 - Recicla *más… que* (semana 30), comida (mes 3) y números.
-- **Calendario:** con vacaciones en Semana Santa, esta semana es del **26 al 30 de abril de 2027** [Suponiendo], ya en tiempo de Pascua. Se presentan como *"los dulces que se comen en Semana Santa"*. Si las vacaciones fueron después de Pascua, esta semana se intercambió con la paella del mes 7 ([semana 27](../mes-7/semana-27.md#si-las-vacaciones-caen-en-otra-semana)).
+- **Calendario:** si esta semana cae ya en tiempo de Pascua, Se presentan como *"los dulces que se comen en Semana Santa"*. Si las vacaciones fueron después de Pascua, esta semana se intercambió con la paella del mes 7 ([semana 27](../mes-7/semana-27.md#si-las-vacaciones-caen-en-otra-semana)).
 - **Se compran o las haces tú en casa**: no se fríe en clase.
 
 **Peppa de la semana:** *"Tidying Up"* (temporada 1 [Probable]; título en español sin verificar, se cita en inglés): Peppa y George tienen que ordenar su habitación. Tramo de 2–3 minutos. Palabras clave: *ordenar, los juguetes, la cama, pon*. Recicla la casa y las preposiciones.

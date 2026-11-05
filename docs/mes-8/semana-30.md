@@ -12,7 +12,7 @@
 
 **Virtud:** perdón. *"Bella dice la verdad: 'Eres feo, pero eres bueno'. La Bestia grita y después dice: 'Lo siento'."*
 
-**Calendario:** con vacaciones en Semana Santa, el viernes de esta semana es el **23 de abril de 2027: Sant Jordi y Día del Libro** [Seguro, calculado]. Si tu calendario es otro, mueve el Culture Friday a la semana en la que caiga el 23 de abril.
+**Calendario:** el **23 de abril es Sant Jordi y Día del Libro** [Seguro]. Mueve el Culture Friday a la semana en la que caiga esa fecha.
 
 **Preparación total de la semana:** unas 2 h (tarjetas de opuestos, balanza, rosas de papel, libros de la biblioteca).
 

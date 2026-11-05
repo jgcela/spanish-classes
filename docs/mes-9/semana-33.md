@@ -14,7 +14,7 @@
 
 **Tarea de gestión de esta semana:** envía la **invitación a la celebración final** ([anexos](anexos.md#celebración-final)) con la fecha de la semana 36. Empieza las **entrevistas orales de la evaluación final** si el grupo tiene más de 15 alumnos.
 
-**Calendario:** si el curso sigue lo previsto, esta semana es del **10 al 14 de mayo de 2027** [Suponiendo]. San Isidro es el sábado 15 de mayo [Seguro, calculado]: se celebra el viernes.
+**Calendario:** San Isidro es el 15 de mayo [Seguro]. Si no cae en esta semana, mueve el Culture Friday a la semana más cercana a esa fecha.
 
 **Preparación total de la semana:** unas 2 h (tarjetas del mes, mapa de la isla, invitación).
 

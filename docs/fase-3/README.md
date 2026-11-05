@@ -19,7 +19,7 @@
 - **Frozen en España y en Latinoamérica:** "¡Suéltalo!" (Gisela) / "Libre soy" (Carmen Sarahí) ([fuente](https://hispanicallyyours.com/tag/sueltalo)).
 - **"Hay un amigo en mí"** en el doblaje español: [eldoblaje.com, ficha de Toy Story 3](https://www.eldoblaje.com/datos/FichaPeliculaINT.asp?id=20243).
 - **"De colores":** [Wikipedia](https://en.wikipedia.org/wiki/De_Colores).
-- **Fechas litúrgicas móviles de 2027** (calculadas con el algoritmo del calendario gregoriano): Miércoles de Ceniza el 10 de febrero y Pascua el 28 de marzo.
+- **Fechas litúrgicas móviles** (Miércoles de Ceniza, Pascua, Pentecostés, Corpus): cambian cada año; compruébalas en el calendario litúrgico del curso.
 
 ## Qué no está verificado (y queda señalado en cada archivo)
 

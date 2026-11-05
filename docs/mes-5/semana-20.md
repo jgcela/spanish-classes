@@ -14,7 +14,7 @@
 
 **Reciclaje obligatorio:** colores y tamaño (mes 1), concordancia (mes 4), *está* + lugar y emoción (semana 18), números (semana 19) en *hay tres leones*.
 
-**Fecha:** si el curso empezó el 7 de septiembre de 2026, esta semana es del **1 al 5 de febrero de 2027** y la Candelaria (2 de febrero) cae en **martes** [Seguro, calculado]. Se celebra en el Culture Friday; si prefieres el día exacto, intercambia el bloque B del martes y del viernes.
+**Fecha:** la Candelaria es el 2 de febrero [Seguro]. Se celebra en el Culture Friday de la semana más cercana; si prefieres el día exacto, intercambia el bloque B del martes y del viernes.
 
 **Preparación total de la semana:** unas 2 h 30 min (máscaras, copias del dibujo dictado, grabación).
 
@@ -214,4 +214,4 @@
 - **Ser / estar:** no lo pases a YA LO SÉ aunque el producto haya salido bien. Queda en ESTE MES durante el bloque 6, que lo recicla con las descripciones de la familia Madrigal.
 - Pasa a YA LO SÉ los animales y las partes del cuerpo que todos dominan.
 - Informe mensual a las familias; cierre de la caja del bloque; las máscaras se quedan en clase hasta el bloque 6 (sirven para *¿Cómo es?*).
-- **Antes del bloque 6:** el Miércoles de Ceniza de 2027 es el **10 de febrero** [Seguro, calculado], en la semana 21. Revisa el README del mes 6.
+- **Antes del bloque 6:** comprueba la fecha del Miércoles de Ceniza (fecha móvil); el mes 6 la prevé en la semana 21. Revisa el README del mes 6.

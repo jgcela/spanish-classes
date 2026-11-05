@@ -271,7 +271,7 @@ Página final del pasaporte del club (se pega en la última hoja). Es el product
 **Diploma** (una cartulina A5, en español con traducción pequeña):
 
 > **Spanish Passport Club · Club Pasaporte al Español**
-> Curso 2026–2027
+> Curso ________
 > ______ ha completado su pasaporte con ______ sellos.
 > *has completed the Spanish Passport with ___ stamps.*
 > ¡Felicidades! · *Congratulations!*

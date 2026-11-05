@@ -6,8 +6,8 @@
 
 ## Lo incómodo primero
 
-- **No sé cuándo termina tu curso.** Este mes supone que la semana 36 es del **31 de mayo al 4 de junio de 2027** (con una semana de vacaciones en Semana Santa) [Suponiendo]. Si el colegio termina antes, **no recortes el producto ni la celebración**: recorta la semana 34 (ver §6). Pide la fecha de la última sesión ya.
-- **El lunes 31 de mayo de 2027 es Memorial Day** (último lunes de mayo) [Seguro, calculado]. Si no hay clase, el Gran Juego pasa al martes y lo del lunes se reparte (ver [semana-36.md](semana-36.md)).
+- **Ajusta este mes a la última semana real del curso.** Si el colegio termina antes de la semana 36, **no recortes el producto ni la celebración**: recorta la semana 34 (ver §6). Pide la fecha de la última sesión ya.
+- **Memorial Day es el último lunes de mayo** [Seguro]. Si cae en la semana 36 y no hay clase, el Gran Juego pasa al martes y lo del lunes se reparte (ver [semana-36.md](semana-36.md)).
 - **La evaluación final coincide con la semana de cocina (35).** El diseño pone las dos en la misma semana. Aquí la prueba final se hace **en el bloque C (Boost) de lunes a jueves**, como la inicial en la semana 1, y la cocina sigue en el bloque D. Es apretado; si el grupo es grande (más de 15), empieza las entrevistas orales en la semana 34.
 - **Vaiana no es una leyenda polinesia: es una película de Disney inspirada en tradiciones polinesias** [Seguro]. La adaptación de este mes **no usa a Maui** (que es un personaje de la mitología polinesia y, en la película, una versión de Disney discutida por algunos polinesios [Probable]) ni ningún elemento sagrado: cuenta la historia de una chica que aprende a navegar para salvar a su pueblo. En España la película y el personaje se llaman *Vaiana*; en Latinoamérica, *Moana* [Seguro].
 - **"¿Qué vas a hacer en verano?" no es neutro.** Hay familias que no viajan, niños que pasan el verano en un campamento de día o cuidando hermanos. La respuesta *"Voy a jugar en el parque"* vale exactamente lo mismo que *"Voy a ir a España"*. Modela tú respuestas sencillas.
@@ -164,7 +164,7 @@ Letra **original**, con la melodía tradicional de *Row, Row, Row Your Boat* (do
 | Producción oral | Navegación, planes, *¿Adónde vas?*, chiringuito, pasaporte completo, vlog. |
 | Destrezas | **Evaluación final** de los 4 ámbitos de la prueba inicial (semana 35) + **tercera ficha trimestral** con los 7 ámbitos. |
 | Continuidad Peppa–cuento–objetivos | S33 la playa + la isla · S34 el barco del abuelo + el viaje · S35 un día de calor + la tormenta · S36 la acampada + volver a casa. |
-| Calendario | San Isidro (sábado 15 de mayo: se celebra el viernes 14), Memorial Day (lunes 31 de mayo), Pentecostés (16 de mayo), Corpus Christi (jueves 27 de mayo) [Seguro, calculados]. |
+| Calendario | San Isidro (15 de mayo), Memorial Day (último lunes de mayo), Pentecostés y Corpus Christi (fechas móviles: compruébalas en el calendario litúrgico del año). |
 | Sensibilidad | Planes de verano sin viajes; ningún elemento sagrado polinesio; celebración con alternativas para quien no quiere hablar solo. |
 | Asistencia irregular | El pasaporte completo existe desde el mes 1: nadie empieza de cero. |
 | Carga de preparación | Unas 2 h por semana; 3 h en la semana 35 (cocina y evaluación); 4 h en la semana 36 (celebración, fichas, diplomas). |

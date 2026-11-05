@@ -92,7 +92,7 @@ Desarrollada en la Fase 2, semana 3.
 - **Sin cocina:** receta ilustrada para ordenar; tradiciones de Semana Santa (procesiones, *pasos*, *capirotes*).
 - **Alérgenos:** gluten, leche, huevo; **frutos secos** en la capirotada.
 - **Matemáticas:** *Una barra de pan = 10 torrijas. Somos 18. ¿Cuántas barras?*
-- **Nota de calendario:** si la Pascua es temprana (en 2027 cae el 28 de marzo [Seguro, calculado]), cambia esta semana por la paella del bloque 7.
+- **Nota de calendario:** si la Pascua es temprana (en marzo), cambia esta semana por la paella del bloque 7.
 
 ### B9 · Gazpacho andaluz · **España (Andalucía)** (con comparación con el agua fresca de México)
 - **Cultura:** sopa fría de verano típica de Andalucía. El agua fresca mexicana (agua con fruta) cumple una función parecida en el calor [Seguro].
@@ -133,7 +133,7 @@ Los temas con fecha fija se pueden mover dentro de su bloque. Las fechas móvile
 | 21 | 6 | Fernando Botero | Pintor y escultor colombiano [Seguro]; figuras voluminosas, adjetivos *grande / redondo* |
 | 22 | 6 | Carnaval (fecha móvil) | Barranquilla (Colombia), Cádiz y Canarias (España) [Seguro] |
 | 23 | 6 | *Cultural Kitchen*: arepas | Colombia y Venezuela |
-| 24 | 6 | Miércoles de Ceniza y Cuaresma (móvil) | En 2027, el Miércoles de Ceniza es el 10 de febrero [Seguro, calculado]; vocabulario: *ceniza, ayuno, rezar, ayudar* |
+| 24 | 6 | Miércoles de Ceniza y Cuaresma (móvil) | Fecha móvil (46 días antes de Pascua [Seguro]); vocabulario: *ceniza, ayuno, rezar, ayudar* |
 | 25 | 7 | Monedas | Euro (España) y peso (México, Argentina, Colombia, Chile…) [Seguro] |
 | 26 | 7 | La Alhambra y los arabismos | Granada; *aceite, azúcar, almohada, ojalá* [Seguro] |
 | 27 | 7 | *Cultural Kitchen*: paella y Fallas | Valencia, 15–19 de marzo [Seguro] |

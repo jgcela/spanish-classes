@@ -12,7 +12,7 @@
 
 **Virtud:** fortaleza. *"Simba tiene miedo, pero un día vuelve. Ser valiente no es no tener miedo."*
 
-**Si el lunes es festivo (Martin Luther King Jr., 18 de enero de 2027):** el martes haces la sesión 86 (cara) en el bloque D y la 87 (cuerpo) en el juego final y en la estación autónoma; suprime el ➕ 75.
+**Si el lunes es festivo (Martin Luther King Jr., tercer lunes de enero):** el martes haces la sesión 86 (cara) en el bloque D y la 87 (cuerpo) en el juego final y en la estación autónoma; suprime el ➕ 75.
 
 **Preparación total de la semana:** unas 2 h.
 

@@ -12,7 +12,7 @@
 
 **Virtud:** sinceridad. *"El mago dice: 'Soy tu tío'. ¿Es verdad?"*
 
-**Calendario:** si el curso empezó el 7 de septiembre de 2026, esta semana es del **15 al 19 de marzo de 2027**: son los días de las **Fallas** y el viernes 19 es **San José** [Seguro]. Si, como supone este mes, la semana siguiente es de vacaciones de Semana Santa, **el viernes es la última sesión de Cuaresma**: se cierra el frasco de las obras buenas.
+**Calendario:** las **Fallas** son del 15 al 19 de marzo y el 19 es **San José** [Seguro]: coloca esta semana lo más cerca posible. Si la semana siguiente es de vacaciones de Semana Santa, **el viernes es la última sesión de Cuaresma**: se cierra el frasco de las obras buenas.
 
 **Preparación total de la semana:** unas 2 h (caja cueva, pistas de Spanish Detectives).
 

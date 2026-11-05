@@ -12,7 +12,7 @@
 
 **Virtud:** valentía. *"Vaiana sale al mar sola. Tiene miedo. ¡Va igual!"*
 
-**Calendario:** si el curso sigue lo previsto, esta semana es del **17 al 21 de mayo de 2027** [Suponiendo]; el domingo anterior (16 de mayo) es **Pentecostés** [Seguro, calculado].
+**Calendario:** si **Pentecostés** (50 días después del Domingo de Pascua [Seguro]) cae cerca de esta semana, menciónalo.
 
 **Si el curso termina una semana antes:** esta semana se suprime; ver el [README](README.md#6-si-el-curso-termina-antes).
 

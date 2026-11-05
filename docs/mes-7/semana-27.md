@@ -15,7 +15,7 @@
 
 **Cuento:** capítulo 3 corto, "Los tres deseos" ([anexos](anexos.md#capítulo-3--los-tres-deseos)); 7 minutos al día.
 
-**Calendario:** este mes supone que la semana 27 es la de **Pascua** (29 de marzo – 2 de abril de 2027) [Suponiendo]. El lunes empieza con *"¡Feliz Pascua!"*. El viernes de la octava de Pascua no es día de abstinencia [Seguro: los días de la octava son solemnidades], así que la paella puede llevar pollo. Aun así, ten paella de verduras para quien no come carne.
+**Calendario:** este mes supone que la semana 27 es la de **Pascua** (la semana después del Domingo de Pascua) [Suponiendo]. El lunes empieza con *"¡Feliz Pascua!"*. El viernes de la octava de Pascua no es día de abstinencia [Seguro: los días de la octava son solemnidades], así que la paella puede llevar pollo. Aun así, ten paella de verduras para quien no come carne.
 
 ### Si las vacaciones caen en otra semana
 

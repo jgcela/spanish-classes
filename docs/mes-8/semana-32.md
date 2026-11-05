@@ -14,7 +14,7 @@
 
 **Reciclaje obligatorio:** preposiciones (mes 7), *puedo* (mes 6), *es / está* (mes 5), colores y concordancia (mes 4).
 
-**Calendario:** con vacaciones en Semana Santa, esta semana es del **3 al 7 de mayo de 2027** [Suponiendo]. El lunes 3 de mayo es la fiesta de la **Cruz de Mayo** en muchas ciudades de España [Seguro] y empieza el **mes de María**.
+**Calendario:** el 3 de mayo es la fiesta de la **Cruz de Mayo** en muchas ciudades de España [Seguro] y empieza el **mes de María**.
 
 **Preparación total de la semana:** unas 3 h (marionetas, guiones, feria del libro).
 

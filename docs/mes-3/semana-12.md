@@ -14,7 +14,7 @@
 
 ### Semana corta por Acción de Gracias
 
-[Seguro, calculado] En 2026, Acción de Gracias es el jueves 26 de noviembre. Si el curso empezó el 7 de septiembre, esta es la semana 12. Por eso:
+Acción de Gracias es el cuarto jueves de noviembre [Seguro]. Si cae en esta semana:
 
 | Día | Sesión | Si hay festivo |
 |---|---|---|

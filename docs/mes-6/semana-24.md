@@ -14,7 +14,7 @@
 
 **Reciclaje obligatorio:** *es / tiene / está* (mes 5) en la puerta; *me gusta* (meses 2–3); conectores *y, pero, porque*.
 
-**Fecha:** si el curso empezó el 7 de septiembre de 2026, esta semana es del **1 al 5 de marzo de 2027**, tercera semana de Cuaresma [Seguro, calculado].
+**Fecha:** si esta semana cae en Cuaresma, mantén las referencias cuaresmales.
 
 **Preparación total de la semana:** unas 2 h + 1 h de ficha trimestral.
 
@@ -205,4 +205,4 @@
 - **Ser / estar** sigue en ESTE MES. Pasa a YA LO SÉ *puedo / no puedo* y *me gusta* + infinitivo si todos los usan.
 - Informe mensual a las familias; cierre de la caja del bloque con "lo que cambiaría".
 - El **mural de la Casa del club** se queda en la pared hasta la Muestra 2 (semana 28): las familias lo verán en el Spanish Market.
-- **Antes del bloque 7:** comprueba en el calendario del colegio las **vacaciones de Semana Santa** (Domingo de Ramos, 21 de marzo de 2027; Pascua, 28 de marzo [Seguro, calculado]) y decide qué semana cultural va primero (paella y Fallas o Semana Santa). Reserva sala y fecha para el **Spanish Market** (semana 28) y avisa a las familias con 3 semanas.
+- **Antes del bloque 7:** comprueba en el calendario del colegio las **vacaciones de Semana Santa** (Domingo de Ramos y Pascua: fechas móviles) y decide qué semana cultural va primero (paella y Fallas o Semana Santa). Reserva sala y fecha para el **Spanish Market** (semana 28) y avisa a las familias con 3 semanas.

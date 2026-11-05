@@ -66,12 +66,12 @@ Se hace una vez por semana, por ejemplo el viernes por la tarde o el domingo. La
 | 9–12 | 3 · Ratatouille | **Primera ficha trimestral** (sem. 12); Acción de Gracias de EE. UU.: probable semana corta |
 | 13–16 | 4 · Frozen | **Concierto de Navidad** (sem. 16): reservar sala y avisar a familias con 3 semanas; vacaciones de Navidad |
 | 17–20 | 5 · Rey León | Rehacer equipos tras las vacaciones; mini repaso de bloques 1–4 |
-| 21–24 | 6 · Encanto | **Segunda ficha trimestral** (sem. 24); Miércoles de Ceniza (10 de febrero de 2027) |
-| 25–28 | 7 · Aladdín | **Spanish Market** (sem. 28): monedas de papel, puestos; Semana Santa (Pascua: 28 de marzo de 2027), probable semana de vacaciones |
+| 21–24 | 6 · Encanto | **Segunda ficha trimestral** (sem. 24); Miércoles de Ceniza (fecha móvil) |
+| 25–28 | 7 · Aladdín | **Spanish Market** (sem. 28): monedas de papel, puestos; Semana Santa (fecha móvil), probable semana de vacaciones |
 | 29–32 | 8 · Bella y Bestia | Empezar a recoger audios para la cápsula del tiempo final |
 | 33–36 | 9 · Vaiana | **Evaluación final** (sem. 35), **tercera ficha trimestral**, **celebración final** (sem. 36), pasaportes a casa |
 
-[Seguro: fechas de Miércoles de Ceniza y Pascua de 2027 calculadas para el calendario gregoriano.] Las demás vacaciones dependen del calendario del colegio: pídelo en la semana 0 y marca en esta tabla las semanas sin clase. **Si se pierde una semana entera de un bloque** [Suponiendo: orden de prioridad propuesto]:
+Las fechas móviles (Ceniza, Pascua) y las vacaciones dependen del calendario del colegio: pídelo en la semana 0 y marca en esta tabla las semanas sin clase. **Si se pierde una semana entera de un bloque** [Suponiendo: orden de prioridad propuesto]:
 1. Se mantienen las semanas 1, 2 y 4: tienen el contenido nuevo, la misión y el producto con su sello.
 2. La Cultural Kitchen se condensa en un solo día (el viernes de la semana 2 o de la 4), con la degustación y la receta para casa. No se compra nada hasta conocer el calendario.
 3. Las semanas cortas (3–4 días) no se reorganizan: se suprime el día festivo y su actividad de D pasa al día siguiente.
