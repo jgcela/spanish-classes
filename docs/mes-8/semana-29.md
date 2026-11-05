@@ -12,8 +12,6 @@
 
 **Virtud:** perdón. *"La Bestia está enfadada. ¿Puede pedir perdón?"*
 
-**Calendario:** con vacaciones en Semana Santa, esta semana es del **12 al 16 de abril de 2027** [Suponiendo], segunda semana después de Pascua.
-
 **Preparación total de la semana:** unas 2 h (tarjetas de casa y muebles, plano del castillo, casa de muñecas).
 
 ---

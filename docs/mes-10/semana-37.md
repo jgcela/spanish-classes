@@ -14,8 +14,6 @@
 
 **Tarea de gestión de esta semana:** decide dónde va este bloque (README, §6) y reparte los **oficios de clase** del mes. Pide permiso a 2 o 3 trabajadores del colegio para el reportaje de los mayores (semana 40).
 
-**Calendario:** sin fechas asignadas [Suponiendo]. Si el bloque va entre los meses 8 y 9, esta semana cae en mayo.
-
 **Preparación total de la semana:** unas 3 h (relojes de cartón para todos, tarjetas del mes).
 
 ---

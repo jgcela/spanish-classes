@@ -72,7 +72,7 @@ Las zonas no cambian en todo el curso. Así los alumnos saben dónde ir sin inst
 
 ## 4. Inventario y presupuesto aproximado
 
-[Suponiendo: precios orientativos en EE. UU. en 2026; compruébalos antes de pedir el presupuesto al colegio.]
+[Suponiendo: precios orientativos en EE. UU.; compruébalos antes de pedir el presupuesto al colegio.]
 
 | Material | Cantidad | Coste aprox. |
 |---|---|---|

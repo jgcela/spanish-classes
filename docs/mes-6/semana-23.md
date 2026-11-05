@@ -9,7 +9,7 @@
 - [Seguro] Se hacen con **harina de maíz precocida**, agua y sal. [Probable] En Venezuela se suelen abrir y rellenar; en Colombia es muy común comerla con mantequilla y queso por encima, y hay muchas variantes regionales (de choclo, de huevo…).
 - Recicla Mirabel (la familia es de Colombia), *me gusta*, *quiero… por favor* (mes 3), números y proporciones.
 - **Se compran o las haces tú en casa**: no se cocina en clase.
-- **Viernes de Cuaresma:** el 26 de febrero de 2027 es viernes de Cuaresma [Seguro, calculado]. **Todas las arepas, sin carne.** La *reina pepiada* venezolana (pollo y aguacate) se cuenta como dato, no se sirve.
+- **Viernes de Cuaresma:** si esta semana cae en Cuaresma, el viernes es día de abstinencia. **Todas las arepas, sin carne.** La *reina pepiada* venezolana (pollo y aguacate) se cuenta como dato, no se sirve.
 
 **Peppa de la semana:** temporada 1, episodio 31, *"Clase de ballet"* (*Ballet Lesson*) [título en español: Probable]: Peppa y sus amigos van a clase de ballet. Tramo de 2–3 minutos. Palabras clave: *bailar, saltar, la clase, puedo*. Recicla *puedo* y aficiones.
 

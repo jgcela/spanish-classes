@@ -8,7 +8,7 @@
 
 - **Los objetos que hablan no están en el cuento tradicional: son de Disney.** En el cuento de Madame de Beaumont (1756) el castillo está encantado, pero los muebles no hablan [Seguro]. Como el bloque gira en torno a "objetos que hablan", la adaptación de este mes **inventa sus propios objetos** (un sillón gruñón, una escoba con prisa, un espejo que dice la verdad, un libro viejo). No uses el candelabro, el reloj, la tetera ni la taza de la película: son personajes protegidos.
 - **"Describe tu casa" puede doler.** Hay alumnos que viven en un piso pequeño, comparten habitación, viven entre dos casas o están en acogida. La misión **nunca** pide describir la casa real: cada alumno elige entre su casa, la casa de sus sueños o el castillo del cuento. No hagas comparaciones de casas entre alumnos (*mi casa es más grande que la tuya*); las comparaciones de este mes son de objetos y personajes.
-- **Las torrijas y la capirotada son dulces de Cuaresma y Semana Santa, y este mes ya es tiempo de Pascua** (semana 31: 26–30 de abril de 2027 [Suponiendo, con vacaciones en Semana Santa]). Se presentan como "lo que se comió en Semana Santa"; si las vacaciones fueron después de Pascua, esta semana se intercambió con la paella (ver [semana 27 del mes 7](../mes-7/semana-27.md#si-las-vacaciones-caen-en-otra-semana)).
+- **Las torrijas y la capirotada son dulces de Cuaresma y Semana Santa, y este mes ya es tiempo de Pascua** (si las vacaciones fueron en Semana Santa). Se presentan como "lo que se comió en Semana Santa"; si las vacaciones fueron después de Pascua, esta semana se intercambió con la paella (ver [semana 27 del mes 7](../mes-7/semana-27.md#si-las-vacaciones-caen-en-otra-semana)).
 - **La capirotada lleva a menudo frutos secos y queso** [Probable]. Si hay alérgicos a frutos secos, no sirvas capirotada: muéstrala en foto.
 - **Mayo empieza en la semana 32.** Si el colegio hace ofrenda de flores a la Virgen, coincide con el producto. No lo dupliques: la sesión 160 incluye una opción de flores.
 
@@ -93,7 +93,7 @@ Letra **original**, con la melodía tradicional de *London Bridge Is Falling Dow
 ## 4. Virtud del mes: perdón
 
 - **Frase del mes:** *"Lo siento." · "Te perdono."*
-- **Tiempo de Pascua:** [Seguro] el domingo siguiente a Pascua es el Domingo de la Divina Misericordia; en 2027, el 4 de abril. Este bloque empieza justo después: el perdón de Dios como modelo del perdón entre compañeros.
+- **Tiempo de Pascua:** [Seguro] el domingo siguiente a Pascua es el Domingo de la Divina Misericordia; si el bloque empieza poco después de Pascua, úsalo: el perdón de Dios como modelo del perdón entre compañeros.
 - **En el cuento:** la Bestia se enfada y grita; luego pide perdón. Bella perdona a la Bestia y, al final, a sus hermanas.
 - **En clase:** cuando haya un conflicto real, se cierra en español: *"Lo siento." – "Te perdono."* No se obliga a nadie a perdonar en el momento; se puede decir *"Necesito un minuto."*
 - **No es un juego:** no hagas representaciones de "pedir perdón" con conflictos inventados entre alumnos reales.
@@ -169,7 +169,7 @@ Según la [Fase 5](../fase-5/preparacion.md#4-calendario-del-curso-vista-de-la-p
 | Producción oral | Visita guiada de la casa, objetos que hablan, debate *¿Es bonito o feo?*, teatro de objetos, radioteatro. |
 | Destrezas | Este mes el ámbito evaluado a fondo es **escritura** (texto "Si mi casa hablara", sesión 158). |
 | Continuidad Peppa–cuento–objetivos | S29 papá pierde las gafas + el castillo · S30 el castillo del viento + la rosa · S31 ordenar la habitación + el espejo · S32 repaso + la verdadera Bestia. |
-| Calendario | Sant Jordi el viernes 23 de abril de 2027 (S150); 3 de mayo, Cruces de Mayo (S156); Mes de María. |
+| Calendario | Sant Jordi, 23 de abril (S150); 3 de mayo, Cruces de Mayo (S156); Mes de María. |
 | Sensibilidad | Casas reales opcionales; nada de comparar casas; capirotada y frutos secos; perdón sin obligar. |
 | Asistencia irregular | El teatro se hace por grupos con papeles intercambiables; el texto escrito es individual y se hace en una sesión. |
 | Carga de preparación | Unas 2 h por semana; 3 h en la semana 31; 3 h en la semana 32 (teatro y feria). |

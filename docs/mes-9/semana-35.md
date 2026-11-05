@@ -17,7 +17,7 @@
 
 **Cuento:** capítulo 3 corto, "La tormenta" ([anexos](anexos.md#capítulo-3--la-tormenta)); 7 minutos al día.
 
-**Calendario:** si el curso sigue lo previsto, esta semana es del **24 al 28 de mayo de 2027** [Suponiendo]; el jueves 27 es **Corpus Christi** [Seguro, calculado]. En España se celebra con procesiones y alfombras de flores (Toledo, Sevilla, Granada) [Seguro]; si el colegio lo celebra, menciónalo el jueves en la entrada.
+**Calendario:** si el **Corpus Christi** (jueves, 60 días después del Domingo de Pascua [Seguro]) cae en esta semana, menciónalo. En España se celebra con procesiones y alfombras de flores (Toledo, Sevilla, Granada) [Seguro]; si el colegio lo celebra, menciónalo ese día en la entrada.
 
 ### Distribución especial de esta semana (60 min)
 
@@ -222,4 +222,4 @@ La misma que en las demás semanas de cocina ([mes 1, semana 3](../fase-2/semana
 
 **Evaluación formativa:** misión en el registro. Mueve ESTA SEMANA → ESTE MES.
 
-**Preparación para el lunes:** **semana de la celebración final.** Confirma sala y hora; pasaportes de todos (revisa que tienen todos los sellos que han ganado); diplomas; material del Gran Juego; plantilla del "pasaporte completo"; guion del vlog; **comprueba si el lunes es Memorial Day** (31 de mayo).
+**Preparación para el lunes:** **semana de la celebración final.** Confirma sala y hora; pasaportes de todos (revisa que tienen todos los sellos que han ganado); diplomas; material del Gran Juego; plantilla del "pasaporte completo"; guion del vlog; **comprueba si el lunes es festivo** (Memorial Day es el último lunes de mayo).

@@ -359,7 +359,7 @@ Producto de **11–14 años**: audio de unos **30 segundos**, por parejas o trí
 2. **Qué es (5 s):** *"El viernes abre el Spanish Market del club."*
 3. **Los puestos (10 s):** *"Hay una frutería con naranjas de Valencia, una librería con libros pequeños y un puesto de alfombras de colores."*
 4. **El precio y la pregunta (5 s):** *"¿Necesitas pan? ¡Cuesta solo cuarenta céntimos!"*
-5. **Cuándo y dónde (5 s):** *"El viernes 9 de abril, a las tres, en la sala ___. ¡Te esperamos!"*
+5. **Cuándo y dónde (5 s):** *"El viernes ___ de ___, a las ___, en la sala ___. ¡Te esperamos!"*
 
 **Requisitos de lengua:** 3 puestos con un producto cada uno; un precio; una pregunta con *necesitas* o *quieres*; la fecha.
 

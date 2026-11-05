@@ -22,7 +22,7 @@ La misma que en las demás semanas de cocina ([mes 1, semana 3](../fase-2/semana
 
 - [ ] **Autorización firmada.** Sin autorización: es "empanadero" y atiende (mismo sello).
 - [ ] **Alergias:** masa (**gluten**, a veces **huevo** y **leche** o manteca de cerdo), relleno (**carne**, **huevo**, **queso**, aceitunas). Pregunta al proveedor por la manteca: importa para familias que no comen cerdo [Probable: muchas empanadas argentinas llevan grasa vacuna o de cerdo].
-- [ ] **Dietas:** vegetarianos, sin cerdo, sin carne los viernes de Cuaresma (esta semana todavía no es Cuaresma: el Miércoles de Ceniza de 2027 es el 10 de febrero [Seguro, calculado]). Ten **empanadas de queso o de verdura**.
+- [ ] **Dietas:** vegetarianos, sin cerdo, sin carne los viernes de Cuaresma (comprueba si esta semana ya es Cuaresma: el Miércoles de Ceniza es fecha móvil). Ten **empanadas de queso o de verdura**.
 - [ ] **Alternativa sin gluten:** difícil de encontrar; ofrece fruta o un producto envasado sin gluten.
 - [ ] **Normativa:** comida comprada con etiqueta si el colegio lo exige. Si no se permite comida, el viernes es la **empanadería de papel** (ver sesión 95).
 - [ ] Se sirven **templadas o frías**; nada de horno en clase salvo que el colegio lo permita y lo manejes tú.

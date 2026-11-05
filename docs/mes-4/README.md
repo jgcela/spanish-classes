@@ -6,9 +6,9 @@
 
 ## Lo incómodo primero
 
-- **Las vacaciones de Navidad parten este bloque.** Si el curso empezó el 7 de septiembre de 2026, la semana 13 empieza el 30 de noviembre y la semana 16 caería del 21 al 25 de diciembre [Seguro, calculado]: casi seguro sin clase. Por eso este mes cambia el orden del diseño maestro:
+- **Las vacaciones de Navidad pueden partir este bloque.** Si en tu calendario la semana 16 cae en vacaciones, este mes cambia el orden del diseño maestro:
   - el **concierto de Navidad (Muestra 1)** se adelanta al **último día de clase antes de las vacaciones** (viernes de la semana 15), unido a la degustación de chocolate con churros: una *chocolatada* navideña con las familias;
-  - la **semana 16** se da **a la vuelta de vacaciones**, en enero, y gira en torno a los **Reyes Magos** (6 de enero de 2027, miércoles [Seguro, calculado]) y la carta a los Reyes, que es cuando se escriben en España.
+  - la **semana 16** se da **a la vuelta de vacaciones**, en enero, y gira en torno a los **Reyes Magos** (6 de enero) y la carta a los Reyes, que es cuando se escriben en España.
   - Si tu calendario es otro, la [tabla de la semana 16](semana-16.md#si-la-semana-16-cae-en-otra-fecha) explica qué mover.
 - **Es el mes con más carga para ti.** Concierto, degustación con familias y vuelta de vacaciones. Reserva sala y fecha del concierto **en la semana 12** y envía la invitación en la semana 13.
 - **Navidad sin excluir.** En un colegio católico se celebra la Navidad con naturalidad, pero puede haber alumnos de otras confesiones o sin religión [Suponiendo]. Nadie está obligado a cantar letras religiosas en público: siempre hay un papel de instrumento o de presentador.
@@ -72,7 +72,7 @@ Plantilla de tiempos, bloque C, rutina de entrada, oraciones y frases de clase: 
 
 ## 3. Corona de Adviento de la clase
 
-[Seguro, calculado] En 2026 el primer domingo de Adviento es el **29 de noviembre**; la Navidad cae en viernes. Las cuatro semanas de Adviento coinciden casi exactamente con las semanas 13–15 del curso (más la semana de vacaciones).
+[Seguro] El Adviento empieza el cuarto domingo antes de Navidad (entre el 27 de noviembre y el 3 de diciembre) y dura unas cuatro semanas. Coloca las semanas 13–15 lo más cerca posible de él.
 
 **Cómo:** una corona de papel en la pared con 4 velas (LED o de papel). Cada lunes se "enciende" una vela y se lee la **acción de dar** de la semana:
 

@@ -6,7 +6,6 @@
 
 ## Lo incómodo primero
 
-- **Con el calendario real del colegio (de mediados de agosto a finales de mayo) salen 36 semanas de club: este bloque no cabe entero y queda de reserva** ([calendario 2026–27](../calendario-2026-27.md)). Úsalo por semanas sueltas si se pierden días, o entero en un campamento de verano.
 - **Este bloque no estaba en el diseño.** El diseño maestro tiene 36 semanas de clase en 9 bloques, y con las vacaciones eso ya ocupa de septiembre a junio: diez meses del calendario. Un curso escolar de 180 días son 36 semanas de 5 días [Seguro, calculado]. Este bloque solo hace falta si tu programa tiene **unas 40 semanas de clase** o si quieres un bloque de reserva. Antes de usarlo, cuenta las semanas reales en el calendario del colegio.
 - **Dónde va.** Mi recomendación es darlo **entre el mes 8 y el mes 9**, para que la evaluación final, el tercer Gran Juego y la celebración sigan siendo lo último del curso. Si lo das así, las semanas "37–40" de este archivo se dan después de la 32 y el mes 9 pasa a ser el último. Los números de sesión son etiquetas: no cambian nada. Ver §6 para las otras opciones.
 - **No depende del mes 9.** Está escrito para que funcione antes o después del mes 9: solo da por supuesto lo que se vio hasta el mes 8. Si lo das después del mes 9, aprovecha *voy a* + infinitivo donde lo indico.

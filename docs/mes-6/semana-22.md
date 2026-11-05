@@ -12,7 +12,7 @@
 
 **Virtud:** humildad. *"Mirabel no tiene un don mágico. Pero ayuda a todos."*
 
-**Si el lunes es festivo (Día de los Presidentes, 15 de febrero de 2027):** el martes haces en el bloque D lo esencial de la sesión 106 (*me gusta* + infinitivo, 8 min) y de la 107 (*yo juego / yo como*, 10 min); el capítulo 2 se lee en dos partes, martes y jueves. Suprime el ➕ 75.
+**Si el lunes es festivo (Día de los Presidentes, tercer lunes de febrero):** el martes haces en el bloque D lo esencial de la sesión 106 (*me gusta* + infinitivo, 8 min) y de la 107 (*yo juego / yo como*, 10 min); el capítulo 2 se lee en dos partes, martes y jueves. Suprime el ➕ 75.
 
 **Preparación total de la semana:** unas 2 h (tarjetas de aficiones y asignaturas; agenda de Bruno; ruleta de personas).
 
@@ -181,7 +181,7 @@
 
 **Datos para la profesora:**
 - [Seguro] El **Carnaval de Barranquilla** está declarado Obra Maestra del Patrimonio Oral e Inmaterial de la Humanidad por la UNESCO (2003).
-- [Probable] Se celebra en los cuatro días anteriores al Miércoles de Ceniza; en 2027, del 6 al 9 de febrero. Tiene personajes tradicionales como la **marimonda** y el **torito**.
+- [Probable] Se celebra en los cuatro días anteriores al Miércoles de Ceniza; las fechas cambian cada año. Tiene personajes tradicionales como la **marimonda** y el **torito**.
 - [Seguro] En España son muy conocidos los carnavales de **Cádiz** (con chirigotas, grupos que cantan coplas de humor) y de **Santa Cruz de Tenerife** y **Las Palmas de Gran Canaria**.
 - [Seguro] El Carnaval es la fiesta **antes** de la Cuaresma; por eso termina el martes y el miércoles empieza la Cuaresma con la ceniza. Explícalo así: *"Primero, la fiesta. Después, cuarenta días de preparar el corazón para la Pascua."*
 

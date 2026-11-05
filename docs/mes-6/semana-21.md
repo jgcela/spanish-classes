@@ -12,7 +12,7 @@
 
 **Virtud:** humildad. *"Puedo hacer muchas cosas. Pero mi valor no depende de lo que puedo hacer."* Desde el miércoles, compromiso de Cuaresma ([anexos](anexos.md#compromiso-de-cuaresma)).
 
-**Calendario:** si el curso empezó el 7 de septiembre de 2026, esta semana es del **8 al 12 de febrero de 2027**. El lunes 8 y el martes 9 son los últimos días del Carnaval [Probable: el Carnaval de Barranquilla se celebra los cuatro días anteriores al Miércoles de Ceniza]; el miércoles 10 es **Miércoles de Ceniza** [Seguro, calculado].
+**Calendario:** coloca esta semana en la del **Miércoles de Ceniza** (fecha móvil) si puedes. El lunes y el martes anteriores son los últimos días del Carnaval [Probable: el Carnaval de Barranquilla se celebra los cuatro días anteriores al Miércoles de Ceniza].
 
 **Preparación total de la semana:** unas 2 h (tarjetas de verbos, puertas de los personajes y ruleta, para todo el mes).
 
@@ -194,4 +194,4 @@
 
 **Evaluación formativa:** misión en el registro. Mueve ESTA SEMANA → ESTE MES.
 
-**Preparación para el lunes:** **comprueba si el lunes es festivo** (Día de los Presidentes, 15 de febrero de 2027); episodio "Mummy Pig at Work"; capítulo 2; tarjetas de aficiones.
+**Preparación para el lunes:** **comprueba si el lunes es festivo** (Día de los Presidentes, tercer lunes de febrero); episodio "Mummy Pig at Work"; capítulo 2; tarjetas de aficiones.

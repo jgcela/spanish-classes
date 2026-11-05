@@ -61,7 +61,7 @@ Empiezo con los supuestos indicados entre paréntesis; si alguno es incorrecto, 
 
 1. **¿Cuántos alumnos esperas y estarán todas las edades juntas en la misma sesión, o puedes separar grupos por días o franjas?**
    (Supuesto: un grupo mixto de 10–18 alumnos, con mayoría de 6–10 años.)
-2. **¿Cuándo empieza el programa?** Hoy es 4 de noviembre de 2026; si empieza en enero, la programación de 36 semanas habrá que rotarla.
+2. **¿Cuándo empieza el programa?** Si empieza a mitad de curso (por ejemplo, en enero o febrero), la programación de 36 semanas habrá que rotarla.
    (Supuesto: la programación se presenta como Bloques 1–9 con una correspondencia orientativa de septiembre a mayo; si empiezas a mitad de curso, se reordenan los bloques.)
 3. **¿Qué libro o programa usa la clase ordinaria de español del colegio, en qué cursos, y puedes hablar con esa profesora o profesor?** Sin esta información, el bloque de refuerzo no puede ir alineado.
    (Supuesto: hay español curricular de 1 a 2 sesiones semanales desde 3.º o 4.º grado, con norma latinoamericana; los de 5–7 años no tienen español curricular.)
@@ -346,7 +346,7 @@ Los descriptores completos por destreza y edad llegarán en la Fase 4.
 
 - Cada bloque son **4 semanas lectivas**, no un mes del calendario. La correspondencia con meses es orientativa, suponiendo un inicio en septiembre: los festivos (Acción de Gracias, Navidad, vacaciones de primavera) desplazan los bloques.
 - **Fechas fijas** que sí asigno: Hispanidad y Virgen del Pilar (12 oct.), Todos los Santos (1 nov.), Fieles Difuntos y Día de Muertos (2 nov.), Inmaculada (8 dic.), Virgen de Guadalupe (12 dic.), Navidad (25 dic.), Reyes (6 ene.), Candelaria (2 feb.), San José y Fallas (15–19 mar.), Sant Jordi y Día del Libro (23 abr.), San Isidro (15 may.). Mes de la Herencia Hispana en EE. UU.: del 15 de septiembre al 15 de octubre. [Seguro]
-- **Fechas móviles** (Miércoles de Ceniza, Semana Santa, Pascua, Carnaval, Feria de Abril, Primeras Comuniones): **no las asigno a una semana**; hay que verificarlas en el calendario del colegio. Como referencia, el cálculo del calendario gregoriano da para el curso 2026–27 Miércoles de Ceniza el 10 de febrero de 2027 y Pascua el 28 de marzo de 2027 [Seguro, calculado]. Eso coloca Semana Santa probablemente en el bloque 7 y no en el 8, y por eso las semanas culturales de los bloques 7 y 8 son intercambiables.
+- **Fechas móviles** (Miércoles de Ceniza, Semana Santa, Pascua, Carnaval, Feria de Abril, Primeras Comuniones): **no las asigno a una semana**; hay que verificarlas en el calendario del colegio. Según el año, Semana Santa puede caer en el bloque 7 o en el 8, y por eso las semanas culturales de los bloques 7 y 8 son intercambiables.
 - Las canciones están marcadas como [Probable]: la Fase 3 comprobará su autoría, su versión en español de España y que las letras sean adecuadas. Las de dominio público son tradicionales; las protegidas se usarán solo en fragmentos breves o como audio, sin reproducir la letra.
 
 ### 7.1 Vista por bloques

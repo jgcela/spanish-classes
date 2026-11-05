@@ -8,7 +8,7 @@
 
 - **Ser y estar es el punto gramatical más difícil del curso para angloparlantes** (en inglés los dos son *to be*) [Seguro]. No esperes que lo dominen este mes: el objetivo es que **distingan los dos usos más claros** (*es* = cómo es siempre; *está* = cómo está ahora o dónde está). Los errores seguirán todo el curso y es normal.
 - **El cuento empieza con la muerte de un padre.** En *El Rey León*, el padre de Simba muere [Seguro]. En la adaptación, el padre "se va al cielo de los reyes" y la escena se cuenta sin detalle. Si en el grupo hay un alumno que ha perdido a su padre o a su madre, cuéntaselo antes a la familia o cambia el capítulo 2 por la versión alternativa de los [anexos](anexos.md#versión-alternativa-del-capítulo-2).
-- **Semana 18: probable lunes festivo.** El Día de Martin Luther King Jr. es el tercer lunes de enero: el **18 de enero de 2027** [Seguro, calculado]. Si no hay clase, la sesión 86 (la cara) se junta con la 87 (el cuerpo) el martes: reparte las 10 palabras en dos días y suprime el ➕ 75.
+- **Semana 18: posible lunes festivo.** El Día de Martin Luther King Jr. es el tercer lunes de enero [Seguro]. Si no hay clase, la sesión 86 (la cara) se junta con la 87 (el cuerpo) el martes: reparte las 10 palabras en dos días y suprime el ➕ 75.
 - **Comida con carne en la semana 19.** Las empanadas suelen llevar carne; pregunta por dietas vegetarianas y restricciones religiosas antes de comprar. La alternativa de queso o de verdura resuelve casi todos los casos.
 
 ## Lo que este mes da por supuesto

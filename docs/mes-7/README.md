@@ -6,7 +6,7 @@
 
 ## Lo incómodo primero
 
-- **Las vacaciones de Semana Santa caen en medio de este bloque y no sé qué semana son.** Pascua es el 28 de marzo de 2027 [Seguro, calculado]; Semana Santa va del 21 al 27 de marzo. Este mes está escrito suponiendo que **las vacaciones son la Semana Santa** (22–26 de marzo) y que la semana 27 es la de Pascua (29 de marzo – 2 de abril) [Suponiendo]. Si el colegio las pone después de Pascua, o no hay vacaciones, usa la tabla de la [semana 27](semana-27.md#si-las-vacaciones-caen-en-otra-semana). Confírmalo **antes de comprar nada** para la paella.
+- **Las vacaciones de Semana Santa pueden caer en medio de este bloque.** Este mes está escrito suponiendo que **las vacaciones son la Semana Santa** y que la semana 27 es la de Pascua [Suponiendo]. Si el colegio las pone después de Pascua, o no hay vacaciones, usa la tabla de la [semana 27](semana-27.md#si-las-vacaciones-caen-en-otra-semana). Confírmalo **antes de comprar nada** para la paella.
 - **El Spanish Market es la Muestra 2 y depende de una fecha y una sala.** Con las vacaciones de por medio, avisar a las familias con 3 semanas significa enviar la invitación en la **semana 25**, no en la 27.
 - **Los números del 20 al 100 son el contenido más "escolar" del curso** y los mayores ya los saben a medias. El riesgo es que los de 11–14 se aburran y los de 5–7 se pierdan. Solución de este mes: los pequeños trabajan **decenas redondas** (20, 30, 50, 100) y los precios del mercado para ellos son solo esos; los mayores hacen las cuentas y el cambio.
 - **Céntimos o pesos:** el mercado usa **euros y céntimos** porque los billetes de papel del mes 3 son en euros. Si tu grupo tiene muchas familias mexicanas o colombianas, añade un puesto "de cambio" con pesos; no mezcles las dos monedas en el mismo puesto.
@@ -165,7 +165,7 @@ Letra **original**, con la melodía tradicional de *This Old Man* (canción infa
 | Producción oral | Compras por parejas, Spanish Detectives, deseos, mercado con familias, anuncio de radio. |
 | Destrezas | Este mes el ámbito evaluado a fondo es **lectura** (folleto del mercado, sesión 138). |
 | Continuidad Peppa–cuento–objetivos | S25 zapatos nuevos + el mercado · S26 el escondite + la cueva · S27 el tesoro + los tres deseos · S28 la tienda (repaso) + la verdad. |
-| Calendario | Fallas y San José (viernes 19 de marzo, S130); vacaciones de Semana Santa entre las semanas 26 y 27 [Suponiendo]; Muestra 2 en la semana 28. |
+| Calendario | Fallas y San José (19 de marzo, S130); vacaciones de Semana Santa entre las semanas 26 y 27 [Suponiendo]; Muestra 2 en la semana 28. |
 | Sensibilidad | Día del Padre (San José) con alternativa "alguien que me cuida"; dietas en la paella; nadie "no tiene dinero" en el mercado: todos reciben la misma cantidad. |
 | Asistencia irregular | Núcleo semanal; el puesto del mercado se prepara por equipos, así que un ausente no bloquea el producto. |
 | Carga de preparación | Unas 2 h por semana; 3 h en la semana 27; 4 h en la semana 28 (mercado). |
