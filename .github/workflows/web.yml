@@ -105,6 +105,10 @@ jobs:
           DESTINO: ${{ steps.carpeta.outputs.dir }}
         run: |
           sudo apt-get update -qq > /dev/null && sudo apt-get install -y -qq lftp > /dev/null
+          # Permisos estándar de hosting: carpetas 755 y archivos 644.
+          # Con otros permisos (p. ej. 775/664) muchos servidores responden 403 Forbidden.
+          find paquete/pasaporte-al-espanol -type d -exec chmod 755 {} +
+          find paquete/pasaporte-al-espanol -type f -exec chmod 644 {} +
           servidor="$(echo "$SERVIDOR" | xargs | sed -E 's#^(s?ftp|sftp)://##; s#/.*$##')"
           lftp -p "${PUERTO:-22}" -u "$USUARIO","$CLAVE" "sftp://$servidor" -e "
             set sftp:auto-confirm yes;
@@ -112,4 +116,6 @@ jobs:
             set net:timeout 30;
             mkdir -p -f '$DESTINO';
             mirror --reverse --parallel=5 --verbose=1 paquete/pasaporte-al-espanol/ '$DESTINO';
+            chmod 755 '$DESTINO';
+            cls -ld '$DESTINO' '$DESTINO/index.html' '$DESTINO/assets';
             quit"
