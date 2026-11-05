@@ -53,6 +53,7 @@ hide:
 | [Primer mes](fase-2/README.md) | Plantilla de tiempos, rutinas comunes, 20 sesiones y anexos (cuento, juegos, evaluación inicial) |
 | [Mes 2 · Coco](mes-2/README.md) | Semanas 5–8: familia, cumpleaños, Cultural Kitchen de México y Día de Muertos, mini libro "Las personas que quiero" |
 | [Mes 3 · Ratatouille](mes-3/README.md) | Semanas 9–12: comida y gustos, restaurante, tortilla de patatas, restaurante del club y Gran Juego del trimestre |
+| [Mes 4 · Frozen](mes-4/README.md) | Semanas 13–16: tiempo, ropa y concordancia, Adviento, Navidad en España y México, concierto y carta a los Reyes |
 | [Recursos](fase-3/README.md) | Juegos, canciones, Storytime, episodios de Peppa, cocina y cultura, ideas nuevas |
 | [Materiales](fase-4/README.md) | Evaluación, comunicación con familias, plantillas y kit imprimible |
 | [En el aula](fase-5/README.md) | Organización del aula, edades mixtas, preparación semanal, plan B, protocolos y problemas frecuentes |
