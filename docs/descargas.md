@@ -26,6 +26,7 @@ Los PDF se generan automáticamente cada vez que cambia el material, así que si
   <li><a href="@/pdf/mes-7-aladdin.pdf" download>Mes 7 completo (Aladdín)</a> <small>sesiones 121–140: números hasta 100, precios, preposiciones, paella, arabismos y Spanish Market</small></li>
   <li><a href="@/pdf/mes-8-bella-bestia.pdf" download>Mes 8 completo (La Bella y la Bestia)</a> <small>sesiones 141–160: casa y muebles, comparativos, nosotros, Sant Jordi, torrijas y teatro de objetos</small></li>
   <li><a href="@/pdf/mes-9-vaiana.pdf" download>Mes 9 completo (Vaiana)</a> <small>sesiones 161–180: adónde voy, planes de verano, evaluación final, Gran Juego y celebración</small></li>
+  <li><a href="@/pdf/mes-10-zootropolis.pdf" download>Mes 10 completo (Zootrópolis, bloque extra)</a> <small>sesiones 181–200: la hora, la rutina, las profesiones, la merienda y el barrio</small></li>
   <li><a href="@/pdf/fase-3-juegos.pdf" download>Banco de 40 juegos</a></li>
   <li><a href="@/pdf/fase-4-evaluacion.pdf" download>Evaluación</a> <small>rúbrica oral, ficha trimestral e informe mensual</small></li>
   <li><a href="@/pdf/fase-4-plantillas.pdf" download>Plantillas de aula</a></li>
@@ -47,6 +48,7 @@ Los PDF se generan automáticamente cada vez que cambia el material, así que si
   <li><a href="@/pdf/mes-7-aladdin.pdf" download>Mes 7 · Aladdín</a></li>
   <li><a href="@/pdf/mes-8-bella-bestia.pdf" download>Mes 8 · La Bella y la Bestia</a></li>
   <li><a href="@/pdf/mes-9-vaiana.pdf" download>Mes 9 · Vaiana</a></li>
+  <li><a href="@/pdf/mes-10-zootropolis.pdf" download>Mes 10 · Zootrópolis (bloque extra)</a></li>
   <li><a href="@/pdf/banco-de-recursos.pdf" download>Banco de recursos</a> <small>juegos, canciones, Storytime, Peppa, cultura e ideas</small></li>
   <li><a href="@/pdf/materiales-y-evaluacion.pdf" download>Materiales y evaluación</a></li>
   <li><a href="@/pdf/guia-del-aula.pdf" download>Guía del aula</a> <small>aula, edades mixtas, preparación, plan B, protocolos y problemas</small></li>
