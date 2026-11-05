@@ -81,8 +81,9 @@ jobs:
           path: paquete/
 
       # Sube el paquete a tu propia web por FTP. Solo en main y si existen los
-      # secretos FTP_SERVER, FTP_USERNAME y FTP_PASSWORD (opcional FTP_DIR,
-      # carpeta de destino; por defecto /public_html/javiercela-me/spanish/).
+      # secretos FTP_SERVER, FTP_USERNAME y FTP_PASSWORD (opcionales FTP_DIR,
+      # carpeta de destino, por defecto /public_html/javiercela-me/spanish/,
+      # y FTP_PORT, por defecto 22). El servidor solo admite SFTP.
       - name: Carpeta de destino FTP
         id: carpeta
         if: env.HAY_FTP == 'true'
@@ -94,12 +95,21 @@ jobs:
           case "$dir" in */) ;; *) dir="$dir/" ;; esac
           echo "dir=$dir" >> "$GITHUB_OUTPUT"
 
-      - name: Subir a mi web por FTP
+      - name: Subir a mi web por SFTP
         if: env.HAY_FTP == 'true'
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: paquete/pasaporte-al-espanol/
-          server-dir: ${{ steps.carpeta.outputs.dir }}
+        env:
+          SERVIDOR: ${{ secrets.FTP_SERVER }}
+          USUARIO: ${{ secrets.FTP_USERNAME }}
+          CLAVE: ${{ secrets.FTP_PASSWORD }}
+          PUERTO: ${{ secrets.FTP_PORT }}
+          DESTINO: ${{ steps.carpeta.outputs.dir }}
+        run: |
+          sudo apt-get update -qq > /dev/null && sudo apt-get install -y -qq lftp > /dev/null
+          servidor="$(echo "$SERVIDOR" | xargs | sed -E 's#^(s?ftp|sftp)://##; s#/.*$##')"
+          lftp -p "${PUERTO:-22}" -u "$USUARIO","$CLAVE" "sftp://$servidor" -e "
+            set sftp:auto-confirm yes;
+            set net:max-retries 2;
+            set net:timeout 30;
+            mkdir -p -f '$DESTINO';
+            mirror --reverse --parallel=5 --verbose=1 paquete/pasaporte-al-espanol/ '$DESTINO';
+            quit"
