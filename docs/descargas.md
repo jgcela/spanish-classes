@@ -23,6 +23,7 @@ Los PDF se generan automáticamente cada vez que cambia el material, así que si
   <li><a href="../pdf/mes-5-rey-leon.pdf" download>Mes 5 completo (El Rey León)</a> <small>· sesiones 81–100: animales, cuerpo, ser y estar, empanadas y la Candelaria</small></li>
   <li><a href="../pdf/mes-6-encanto.pdf" download>Mes 6 completo (Encanto)</a> <small>· sesiones 101–120: puedo, aficiones, presente, Cuaresma, arepas y Gran Juego</small></li>
   <li><a href="../pdf/mes-7-aladdin.pdf" download>Mes 7 completo (Aladdín)</a> <small>· sesiones 121–140: números hasta 100, precios, preposiciones, paella, arabismos y Spanish Market</small></li>
+  <li><a href="../pdf/mes-8-bella-bestia.pdf" download>Mes 8 completo (La Bella y la Bestia)</a> <small>· sesiones 141–160: casa y muebles, comparativos, nosotros, Sant Jordi, torrijas y teatro de objetos</small></li>
   <li><a href="../pdf/fase-3-juegos.pdf" download>Banco de 40 juegos</a></li>
   <li><a href="../pdf/fase-4-evaluacion.pdf" download>Evaluación</a> <small>· rúbrica oral, ficha trimestral e informe mensual</small></li>
   <li><a href="../pdf/fase-4-plantillas.pdf" download>Plantillas de aula</a></li>
@@ -42,6 +43,7 @@ Los PDF se generan automáticamente cada vez que cambia el material, así que si
   <li><a href="../pdf/mes-5-rey-leon.pdf" download>Mes 5 · El Rey León</a></li>
   <li><a href="../pdf/mes-6-encanto.pdf" download>Mes 6 · Encanto</a></li>
   <li><a href="../pdf/mes-7-aladdin.pdf" download>Mes 7 · Aladdín</a></li>
+  <li><a href="../pdf/mes-8-bella-bestia.pdf" download>Mes 8 · La Bella y la Bestia</a></li>
   <li><a href="../pdf/banco-de-recursos.pdf" download>Banco de recursos</a> <small>· juegos, canciones, Storytime, Peppa, cultura e ideas</small></li>
   <li><a href="../pdf/materiales-y-evaluacion.pdf" download>Materiales y evaluación</a></li>
   <li><a href="../pdf/guia-del-aula.pdf" download>Guía del aula</a> <small>· aula, edades mixtas, preparación, plan B, protocolos y problemas</small></li>
