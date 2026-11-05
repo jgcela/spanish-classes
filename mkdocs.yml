@@ -86,13 +86,21 @@ nav:
   - Inicio: index.md
   - Diseño:
       - fase-1-diseno-maestro.md
-  - Primer mes:
-      - fase-2/README.md
-      - Semana 1: fase-2/semana-1.md
-      - Semana 2: fase-2/semana-2.md
-      - Semana 3: fase-2/semana-3.md
-      - Semana 4: fase-2/semana-4.md
-      - Anexos: fase-2/anexos.md
+  - Sesiones:
+      - Mes 1 · Toy Story:
+          - fase-2/README.md
+          - Semana 1: fase-2/semana-1.md
+          - Semana 2: fase-2/semana-2.md
+          - Semana 3: fase-2/semana-3.md
+          - Semana 4: fase-2/semana-4.md
+          - Anexos: fase-2/anexos.md
+      - Mes 2 · Coco:
+          - mes-2/README.md
+          - Semana 5: mes-2/semana-5.md
+          - Semana 6: mes-2/semana-6.md
+          - Semana 7: mes-2/semana-7.md
+          - Semana 8: mes-2/semana-8.md
+          - Anexos: mes-2/anexos.md
   - Recursos:
       - fase-3/README.md
       - Juegos: fase-3/juegos.md

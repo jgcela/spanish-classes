@@ -17,6 +17,7 @@ Los PDF se generan automáticamente cada vez que cambia el material, así que si
   <li><a href="../pdf/fase-2-semana-3.pdf" download>Semana 3</a> <small>· sesiones 11–15: Cultural Kitchen, pan con tomate</small></li>
   <li><a href="../pdf/fase-2-semana-4.pdf" download>Semana 4</a> <small>· sesiones 16–20: presentar mi juguete</small></li>
   <li><a href="../pdf/fase-2-anexos.pdf" download>Anexos del primer mes</a> <small>· cuento en 4 capítulos, juegos, evaluación inicial y registro semanal</small></li>
+  <li><a href="../pdf/mes-2-coco.pdf" download>Mes 2 completo (Coco)</a> <small>· sesiones 21–40: familia, cumpleaños, chocolate y Día de Muertos, mini libro</small></li>
   <li><a href="../pdf/fase-3-juegos.pdf" download>Banco de 40 juegos</a></li>
   <li><a href="../pdf/fase-4-evaluacion.pdf" download>Evaluación</a> <small>· rúbrica oral, ficha trimestral e informe mensual</small></li>
   <li><a href="../pdf/fase-4-plantillas.pdf" download>Plantillas de aula</a></li>
@@ -30,6 +31,7 @@ Los PDF se generan automáticamente cada vez que cambia el material, así que si
 <ul class="lista-pdf">
   <li><a href="../pdf/fase-1-diseno-maestro.pdf" download>Diseño del programa</a></li>
   <li><a href="../pdf/primer-mes-completo.pdf" download>Primer mes</a></li>
+  <li><a href="../pdf/mes-2-coco.pdf" download>Mes 2 · Coco</a></li>
   <li><a href="../pdf/banco-de-recursos.pdf" download>Banco de recursos</a> <small>· juegos, canciones, Storytime, Peppa, cultura e ideas</small></li>
   <li><a href="../pdf/materiales-y-evaluacion.pdf" download>Materiales y evaluación</a></li>
   <li><a href="../pdf/guia-del-aula.pdf" download>Guía del aula</a> <small>· aula, edades mixtas, preparación, plan B, protocolos y problemas</small></li>
