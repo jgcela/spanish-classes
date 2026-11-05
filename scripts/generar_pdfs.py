@@ -37,6 +37,9 @@ PARTES: dict[str, tuple[str, list[str]]] = {
     "mes-2-coco": ("Mes 2 · Coco", [
         "mes-2/README.md", "mes-2/semana-5.md", "mes-2/semana-6.md",
         "mes-2/semana-7.md", "mes-2/semana-8.md", "mes-2/anexos.md"]),
+    "mes-3-ratatouille": ("Mes 3 · Ratatouille", [
+        "mes-3/README.md", "mes-3/semana-9.md", "mes-3/semana-10.md",
+        "mes-3/semana-11.md", "mes-3/semana-12.md", "mes-3/anexos.md"]),
     "banco-de-recursos": ("Banco de recursos", [
         "fase-3/README.md", "fase-3/juegos.md", "fase-3/canciones.md",
         "fase-3/storytime.md", "fase-3/peppa.md", "fase-3/cultura.md",
