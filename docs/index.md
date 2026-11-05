@@ -51,6 +51,14 @@ hide:
 |---|---|
 | [Diseño](fase-1-diseno-maestro.md) | Riesgos, enfoque, ritmo semanal fijo, los 9 bloques del curso y la diferenciación por edades |
 | [Primer mes](fase-2/README.md) | Plantilla de tiempos, rutinas comunes, 20 sesiones y anexos (cuento, juegos, evaluación inicial) |
+| [Mes 2 · Coco](mes-2/README.md) | Semanas 5–8: familia, cumpleaños, Cultural Kitchen de México y Día de Muertos, mini libro "Las personas que quiero" |
+| [Mes 3 · Ratatouille](mes-3/README.md) | Semanas 9–12: comida y gustos, restaurante, tortilla de patatas, restaurante del club y Gran Juego del trimestre |
+| [Mes 4 · Frozen](mes-4/README.md) | Semanas 13–16: tiempo, ropa y concordancia, Adviento, Navidad en España y México, concierto y carta a los Reyes |
+| [Mes 5 · El Rey León](mes-5/README.md) | Semanas 17–20: animales, partes del cuerpo, ser y estar, empanadas, Galápagos y la Candelaria |
+| [Mes 6 · Encanto](mes-6/README.md) | Semanas 21–24: *puedo / no puedo*, aficiones, presente en singular, Miércoles de Ceniza, arepas, cumbia y Gran Juego del trimestre |
+| [Mes 7 · Aladdín](mes-7/README.md) | Semanas 25–28: números hasta 100, precios, preposiciones, deseos, San José y Fallas, paella y arabismos, Spanish Market (Muestra 2) |
+| [Mes 8 · La Bella y la Bestia](mes-8/README.md) | Semanas 29–32: casa y muebles, opuestos y comparativos, *nosotros*, *Las Meninas*, Sant Jordi, torrijas y capirotada, teatro de objetos y feria del libro |
+| [Mes 9 · Vaiana](mes-9/README.md) | Semanas 33–36: adónde voy y planes de verano (*voy a* + infinitivo), San Isidro, Machu Picchu, gazpacho y agua fresca, evaluación final, Gran Juego VERANO y celebración de cierre |
 | [Recursos](fase-3/README.md) | Juegos, canciones, Storytime, episodios de Peppa, cocina y cultura, ideas nuevas |
 | [Materiales](fase-4/README.md) | Evaluación, comunicación con familias, plantillas y kit imprimible |
 | [En el aula](fase-5/README.md) | Organización del aula, edades mixtas, preparación semanal, plan B, protocolos y problemas frecuentes |

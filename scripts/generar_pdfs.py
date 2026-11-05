@@ -34,6 +34,30 @@ PARTES: dict[str, tuple[str, list[str]]] = {
     "primer-mes-completo": ("Primer mes", [
         "fase-2/README.md", "fase-2/semana-1.md", "fase-2/semana-2.md",
         "fase-2/semana-3.md", "fase-2/semana-4.md", "fase-2/anexos.md"]),
+    "mes-2-coco": ("Mes 2 · Coco", [
+        "mes-2/README.md", "mes-2/semana-5.md", "mes-2/semana-6.md",
+        "mes-2/semana-7.md", "mes-2/semana-8.md", "mes-2/anexos.md"]),
+    "mes-3-ratatouille": ("Mes 3 · Ratatouille", [
+        "mes-3/README.md", "mes-3/semana-9.md", "mes-3/semana-10.md",
+        "mes-3/semana-11.md", "mes-3/semana-12.md", "mes-3/anexos.md"]),
+    "mes-4-frozen": ("Mes 4 · Frozen", [
+        "mes-4/README.md", "mes-4/semana-13.md", "mes-4/semana-14.md",
+        "mes-4/semana-15.md", "mes-4/semana-16.md", "mes-4/anexos.md"]),
+    "mes-5-rey-leon": ("Mes 5 · El Rey León", [
+        "mes-5/README.md", "mes-5/semana-17.md", "mes-5/semana-18.md",
+        "mes-5/semana-19.md", "mes-5/semana-20.md", "mes-5/anexos.md"]),
+    "mes-6-encanto": ("Mes 6 · Encanto", [
+        "mes-6/README.md", "mes-6/semana-21.md", "mes-6/semana-22.md",
+        "mes-6/semana-23.md", "mes-6/semana-24.md", "mes-6/anexos.md"]),
+    "mes-7-aladdin": ("Mes 7 · Aladdín", [
+        "mes-7/README.md", "mes-7/semana-25.md", "mes-7/semana-26.md",
+        "mes-7/semana-27.md", "mes-7/semana-28.md", "mes-7/anexos.md"]),
+    "mes-8-bella-bestia": ("Mes 8 · La Bella y la Bestia", [
+        "mes-8/README.md", "mes-8/semana-29.md", "mes-8/semana-30.md",
+        "mes-8/semana-31.md", "mes-8/semana-32.md", "mes-8/anexos.md"]),
+    "mes-9-vaiana": ("Mes 9 · Vaiana", [
+        "mes-9/README.md", "mes-9/semana-33.md", "mes-9/semana-34.md",
+        "mes-9/semana-35.md", "mes-9/semana-36.md", "mes-9/anexos.md"]),
     "banco-de-recursos": ("Banco de recursos", [
         "fase-3/README.md", "fase-3/juegos.md", "fase-3/canciones.md",
         "fase-3/storytime.md", "fase-3/peppa.md", "fase-3/cultura.md",

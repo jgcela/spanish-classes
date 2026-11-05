@@ -86,13 +86,70 @@ nav:
   - Inicio: index.md
   - Diseño:
       - fase-1-diseno-maestro.md
-  - Primer mes:
-      - fase-2/README.md
-      - Semana 1: fase-2/semana-1.md
-      - Semana 2: fase-2/semana-2.md
-      - Semana 3: fase-2/semana-3.md
-      - Semana 4: fase-2/semana-4.md
-      - Anexos: fase-2/anexos.md
+  - Sesiones:
+      - Mes 1 · Toy Story:
+          - fase-2/README.md
+          - Semana 1: fase-2/semana-1.md
+          - Semana 2: fase-2/semana-2.md
+          - Semana 3: fase-2/semana-3.md
+          - Semana 4: fase-2/semana-4.md
+          - Anexos: fase-2/anexos.md
+      - Mes 2 · Coco:
+          - mes-2/README.md
+          - Semana 5: mes-2/semana-5.md
+          - Semana 6: mes-2/semana-6.md
+          - Semana 7: mes-2/semana-7.md
+          - Semana 8: mes-2/semana-8.md
+          - Anexos: mes-2/anexos.md
+      - Mes 3 · Ratatouille:
+          - mes-3/README.md
+          - Semana 9: mes-3/semana-9.md
+          - Semana 10: mes-3/semana-10.md
+          - Semana 11: mes-3/semana-11.md
+          - Semana 12: mes-3/semana-12.md
+          - Anexos: mes-3/anexos.md
+      - Mes 4 · Frozen:
+          - mes-4/README.md
+          - Semana 13: mes-4/semana-13.md
+          - Semana 14: mes-4/semana-14.md
+          - Semana 15: mes-4/semana-15.md
+          - Semana 16: mes-4/semana-16.md
+          - Anexos: mes-4/anexos.md
+      - Mes 5 · El Rey León:
+          - mes-5/README.md
+          - Semana 17: mes-5/semana-17.md
+          - Semana 18: mes-5/semana-18.md
+          - Semana 19: mes-5/semana-19.md
+          - Semana 20: mes-5/semana-20.md
+          - Anexos: mes-5/anexos.md
+      - Mes 6 · Encanto:
+          - mes-6/README.md
+          - Semana 21: mes-6/semana-21.md
+          - Semana 22: mes-6/semana-22.md
+          - Semana 23: mes-6/semana-23.md
+          - Semana 24: mes-6/semana-24.md
+          - Anexos: mes-6/anexos.md
+      - Mes 7 · Aladdín:
+          - mes-7/README.md
+          - Semana 25: mes-7/semana-25.md
+          - Semana 26: mes-7/semana-26.md
+          - Semana 27: mes-7/semana-27.md
+          - Semana 28: mes-7/semana-28.md
+          - Anexos: mes-7/anexos.md
+      - Mes 8 · La Bella y la Bestia:
+          - mes-8/README.md
+          - Semana 29: mes-8/semana-29.md
+          - Semana 30: mes-8/semana-30.md
+          - Semana 31: mes-8/semana-31.md
+          - Semana 32: mes-8/semana-32.md
+          - Anexos: mes-8/anexos.md
+      - Mes 9 · Vaiana:
+          - mes-9/README.md
+          - Semana 33: mes-9/semana-33.md
+          - Semana 34: mes-9/semana-34.md
+          - Semana 35: mes-9/semana-35.md
+          - Semana 36: mes-9/semana-36.md
+          - Anexos: mes-9/anexos.md
   - Recursos:
       - fase-3/README.md
       - Juegos: fase-3/juegos.md
