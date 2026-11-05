@@ -56,7 +56,7 @@ jobs:
 
       # Sube el paquete a tu propia web por FTP. Solo en main y si existen los
       # secretos FTP_SERVER, FTP_USERNAME y FTP_PASSWORD (opcional FTP_DIR,
-      # carpeta de destino; por defecto /public_html/espanol/).
+      # carpeta de destino; por defecto /public_html/javiercela-me/spanish/).
       - name: Subir a mi web por FTP
         if: github.event_name != 'pull_request' && env.HAY_FTP == 'true'
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
@@ -65,7 +65,7 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: paquete/pasaporte-al-espanol/
-          server-dir: ${{ secrets.FTP_DIR || '/public_html/espanol/' }}
+          server-dir: ${{ secrets.FTP_DIR || '/public_html/javiercela-me/spanish/' }}
 
       - uses: actions/upload-pages-artifact@v3
         with:
