@@ -57,6 +57,7 @@
 /* Color de cada parte del programa */
 .pagina--fase-1-diseno-maestro { --acento: var(--morado); --acento-deco: var(--morado); }
 .pagina--fase-2 { --acento: var(--coral-texto); --acento-deco: var(--coral); }
+[class*="pagina--mes-"] { --acento: var(--coral-texto); --acento-deco: var(--coral); }
 .pagina--fase-3 { --acento: var(--teal); --acento-deco: var(--teal); }
 .pagina--fase-4 { --acento: var(--verde); --acento-deco: var(--verde); }
 .pagina--fase-5 { --acento: var(--morado); --acento-deco: var(--sol); }
@@ -435,6 +436,35 @@ button:focus-visible {
 .parada a:hover .parada__num { transform: scale(1.12) rotate(-8deg); }
 .parada__nombre { font-family: var(--fuente-titulos); font-weight: 600; font-size: 1rem; margin-top: .3rem; }
 .parada__texto { font-size: .72rem; line-height: 1.45; color: var(--md-default-fg-color--light); }
+
+/* Nueve meses */
+.meses {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: .7rem;
+  margin: 1.2rem 0 2.4rem;
+}
+.md-typeset a.mes {
+  --c: var(--coral);
+  display: flex;
+  flex-direction: column;
+  gap: .15rem;
+  padding: .9rem 1rem;
+  border-radius: 14px;
+  background: var(--tarjeta-fondo);
+  box-shadow: var(--sombra);
+  color: var(--md-typeset-color);
+  text-decoration: none;
+  border-left: 6px solid var(--c);
+  transition: transform .2s ease;
+}
+.md-typeset a.mes:nth-child(3n+2) { --c: #13a39b; }
+.md-typeset a.mes:nth-child(3n) { --c: #7b5cc4; }
+.md-typeset a.mes:hover { transform: translateY(-4px); }
+.mes__num { font: 700 .7rem/1 var(--fuente-titulos); letter-spacing: .08em; text-transform: uppercase; color: var(--md-default-fg-color--light); }
+.mes__num::before { content: "Mes "; }
+.mes__nombre { font: 600 1rem/1.25 var(--fuente-titulos); }
+.mes__semanas { font-size: .72rem; color: var(--md-default-fg-color--light); }
 
 .consejos {
   background: var(--resaltado-fondo);
