@@ -75,7 +75,7 @@ hide:
   </li>
 </ol>
 
-<h2 class="titulo-seccion">Los nueve meses del curso</h2>
+<h2 class="titulo-seccion">Los diez meses del curso</h2>
 
 <div class="meses">
   <a class="mes" href="fase-2/README.md"><span class="mes__num">1</span><span class="mes__nombre">Toy Story</span><span class="mes__semanas">Semanas 1–4</span></a>
@@ -87,6 +87,7 @@ hide:
   <a class="mes" href="mes-7/README.md"><span class="mes__num">7</span><span class="mes__nombre">Aladdín</span><span class="mes__semanas">Semanas 25–28</span></a>
   <a class="mes" href="mes-8/README.md"><span class="mes__num">8</span><span class="mes__nombre">La Bella y la Bestia</span><span class="mes__semanas">Semanas 29–32</span></a>
   <a class="mes" href="mes-9/README.md"><span class="mes__num">9</span><span class="mes__nombre">Vaiana</span><span class="mes__semanas">Semanas 33–36</span></a>
+  <a class="mes" href="mes-10/README.md"><span class="mes__num">10</span><span class="mes__nombre">Zootrópolis (extra)</span><span class="mes__semanas">Semanas 37–40</span></a>
 </div>
 
 <div class="consejos" markdown>
