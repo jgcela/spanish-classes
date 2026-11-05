@@ -18,8 +18,6 @@ concurrency:
 jobs:
   construir:
     runs-on: ubuntu-latest
-    env:
-      HAY_FTP: ${{ secrets.FTP_SERVER != '' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -54,19 +52,6 @@ jobs:
           name: pasaporte-al-espanol-html
           path: paquete/
 
-      # Sube el paquete a tu propia web por FTP. Solo en main y si existen los
-      # secretos FTP_SERVER, FTP_USERNAME y FTP_PASSWORD (opcional FTP_DIR,
-      # carpeta de destino; por defecto /public_html/javiercela-me/spanish/).
-      - name: Subir a mi web por FTP
-        if: github.event_name != 'pull_request' && env.HAY_FTP == 'true'
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: paquete/pasaporte-al-espanol/
-          server-dir: ${{ secrets.FTP_DIR || '/public_html/javiercela-me/spanish/' }}
-
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
@@ -81,3 +66,40 @@ jobs:
     steps:
       - id: despliegue
         uses: actions/deploy-pages@v4
+
+  # Job aparte: si falla el FTP, la web de GitHub Pages se publica igual.
+  subir-ftp:
+    if: github.event_name != 'pull_request'
+    needs: construir
+    runs-on: ubuntu-latest
+    env:
+      HAY_FTP: ${{ secrets.FTP_SERVER != '' }}
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: pasaporte-al-espanol-html
+          path: paquete/
+
+      # Sube el paquete a tu propia web por FTP. Solo en main y si existen los
+      # secretos FTP_SERVER, FTP_USERNAME y FTP_PASSWORD (opcional FTP_DIR,
+      # carpeta de destino; por defecto /public_html/javiercela-me/spanish/).
+      - name: Carpeta de destino FTP
+        id: carpeta
+        if: env.HAY_FTP == 'true'
+        env:
+          FTP_DIR: ${{ secrets.FTP_DIR }}
+        run: |
+          dir="${FTP_DIR:-/public_html/javiercela-me/spanish/}"
+          dir="$(echo "$dir" | xargs)"
+          case "$dir" in */) ;; *) dir="$dir/" ;; esac
+          echo "dir=$dir" >> "$GITHUB_OUTPUT"
+
+      - name: Subir a mi web por FTP
+        if: env.HAY_FTP == 'true'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: paquete/pasaporte-al-espanol/
+          server-dir: ${{ steps.carpeta.outputs.dir }}
