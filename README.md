@@ -13,6 +13,10 @@ Programa extraescolar de español (5–14 años). Material de la profesora.
 - `scripts/generar_pdfs.py` — crea los PDF a partir de la web ya construida.
 - `.github/workflows/web.yml` — en cada cambio en `main` construye la web, genera los PDF y publica en GitHub Pages.
 
+## Paquete para subir a otra web
+
+`OFFLINE=true mkdocs build -d paquete && python scripts/generar_pdfs.py paquete` crea una carpeta con páginas `.html`, rutas relativas y buscador que funciona sin servidor. El CI la deja como artefacto (*pasaporte-al-espanol-html*) y, si existen los secretos `FTP_SERVER`, `FTP_USERNAME` y `FTP_PASSWORD` (y opcionalmente `FTP_DIR`), la sube por FTP en cada cambio en `main`.
+
 ## Probarla en local
 
 ```bash

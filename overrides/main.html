@@ -2,6 +2,8 @@
 
 {% block extrahead %}
   {{ super() }}
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&display=swap">
   <meta name="robots" content="noindex, nofollow">
 {% endblock %}
 
@@ -18,5 +20,8 @@
       </button>
     </div>
   {% endif %}
-  {{ super() }}
+  {% set fase = src.split("/")[0] if "/" in src else src[:-3] %}
+  <div class="pagina pagina--{{ fase }}">
+    {{ super() }}
+  </div>
 {% endblock %}
