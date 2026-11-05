@@ -1,0 +1,117 @@
+site_name: Pasaporte al Español
+site_description: Programa extraescolar de español · material de la profesora
+site_url: https://jgcela.github.io/spanish-classes/
+repo_url: https://github.com/jgcela/spanish-classes
+repo_name: jgcela/spanish-classes
+edit_uri: edit/main/docs/
+copyright: Material interno de la profesora
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: es
+  font:
+    text: Atkinson Hyperlegible
+    code: JetBrains Mono
+  icon:
+    logo: material/passport
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.svg
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - navigation.tracking
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+
+extra_css:
+  - assets/estilos.css
+
+hooks:
+  - hooks/listas.py
+
+plugins:
+  - search:
+      lang: es
+
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: "#"
+      permalink_title: Enlace a esta sección
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Inicio: index.md
+  - Diseño:
+      - fase-1-diseno-maestro.md
+  - Primer mes:
+      - fase-2/README.md
+      - Semana 1: fase-2/semana-1.md
+      - Semana 2: fase-2/semana-2.md
+      - Semana 3: fase-2/semana-3.md
+      - Semana 4: fase-2/semana-4.md
+      - Anexos: fase-2/anexos.md
+  - Recursos:
+      - fase-3/README.md
+      - Juegos: fase-3/juegos.md
+      - Canciones: fase-3/canciones.md
+      - Storytime: fase-3/storytime.md
+      - Peppa Pig: fase-3/peppa.md
+      - Cultura: fase-3/cultura.md
+      - Ideas: fase-3/ideas.md
+  - Materiales:
+      - fase-4/README.md
+      - Evaluación: fase-4/evaluacion.md
+      - Familias: fase-4/familias.md
+      - Plantillas: fase-4/plantillas.md
+  - En el aula:
+      - fase-5/README.md
+      - Aula: fase-5/aula.md
+      - Edades mixtas: fase-5/edades-mixtas.md
+      - Preparación: fase-5/preparacion.md
+      - Plan B: fase-5/plan-b.md
+      - Protocolos: fase-5/protocolos.md
+      - Problemas frecuentes: fase-5/problemas-frecuentes.md
+  - Descargas: descargas.md
