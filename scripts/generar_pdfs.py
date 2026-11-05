@@ -54,8 +54,12 @@ def slug(src: str) -> str:
 
 
 def url(src: str) -> str:
-    """Ruta en el sitio con use_directory_urls (por defecto en MkDocs)."""
+    """Ruta de la página en el sitio construido (con o sin use_directory_urls)."""
     sin_ext = src[:-3]
+    if (SITIO / "descargas.html").exists():  # paquete OFFLINE: páginas .html
+        if sin_ext.endswith("README"):
+            sin_ext = sin_ext[: -len("README")] + "index"
+        return sin_ext + ".html"
     if sin_ext.endswith("README") or sin_ext.endswith("index"):
         return sin_ext.rsplit("/", 1)[0] + "/" if "/" in sin_ext else ""
     return sin_ext + "/"

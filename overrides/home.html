@@ -1,0 +1,46 @@
+{% extends "main.html" %}
+
+{% block tabs %}
+  {{ super() }}
+  <section class="hero" aria-labelledby="hero-titulo">
+    <div class="hero__fondo" aria-hidden="true">
+      <span class="mancha mancha--1"></span>
+      <span class="mancha mancha--2"></span>
+      <span class="mancha mancha--3"></span>
+    </div>
+    <div class="hero__inner md-grid">
+      <div class="hero__texto">
+        <p class="hero__sello">Club de español · 5 a 14 años</p>
+        <h1 id="hero-titulo" class="hero__titulo">
+          Pasaporte<br><span class="hero__al">al</span> Español
+        </h1>
+        <p class="hero__lema">
+          Un curso entero, sesión a sesión: cuentos, juegos, canciones y cultura
+          para que cada alumno llene su pasaporte de sellos.
+        </p>
+        <div class="hero__ctas">
+          <a class="cta cta--sol" href="{{ ('fase-2/semana-1.html' if not config.use_directory_urls else 'fase-2/semana-1/') | url }}">Empezar por la semana 1 →</a>
+          <a class="cta cta--linea" href="{{ ('descargas.html' if not config.use_directory_urls else 'descargas/') | url }}">PDF para imprimir</a>
+        </div>
+      </div>
+      <div class="hero__ilustracion" aria-hidden="true">
+        <img class="lupe" src="{{ 'assets/img/lupe.svg' | url }}" alt="" width="240" height="260">
+        <span class="sello sello--1">¡Hola!</span>
+        <span class="sello sello--2">¿Qué tal?</span>
+        <span class="sello sello--3">¡Olé!</span>
+        <span class="sello sello--4">Gracias</span>
+        <span class="sello sello--5">Buenas tardes</span>
+      </div>
+    </div>
+    <ul class="cifras md-grid" aria-label="El programa en cifras">
+      <li><strong>20</strong><span>sesiones listas</span></li>
+      <li><strong>40</strong><span>juegos de 5 minutos</span></li>
+      <li><strong>9</strong><span>bloques en el curso</span></li>
+      <li><strong>31</strong><span>PDF descargables</span></li>
+    </ul>
+  </section>
+{% endblock %}
+
+{% block content %}
+  {{ page.content }}
+{% endblock %}

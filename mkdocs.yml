@@ -6,6 +6,10 @@ repo_name: jgcela/spanish-classes
 edit_uri: edit/main/docs/
 copyright: Material interno de la profesora
 
+# Paquete para subir a otra web: OFFLINE=true mkdocs build
+# (páginas .html y buscador que funciona incluso abriendo los archivos sin servidor)
+use_directory_urls: !ENV [DIRECTORY_URLS, true]
+
 theme:
   name: material
   custom_dir: overrides
@@ -49,10 +53,13 @@ extra_css:
 
 hooks:
   - hooks/listas.py
+  - hooks/enlaces.py
 
 plugins:
   - search:
       lang: es
+  - offline:
+      enabled: !ENV [OFFLINE, false]
 
 validation:
   omitted_files: warn

@@ -1,5 +1,6 @@
 ---
 hide:
+  - navigation
   - toc
 ---
 
@@ -10,28 +11,28 @@ Los PDF se generan automáticamente cada vez que cambia el material, así que si
 ## Para imprimir y llevar al aula
 
 <ul class="lista-pdf">
-  <li><a href="../fase-4/materiales/kit-imprimible.pdf" download>Kit imprimible</a> <small>· 32 páginas A4: diapositiva de bienvenida, tarjetas, ficha de Peppa, pasaporte, bingo y más</small></li>
-  <li><a href="../pdf/primer-mes-completo.pdf" download>Primer mes completo</a> <small>· las 20 sesiones, rutinas comunes y anexos en un solo archivo</small></li>
-  <li><a href="../pdf/fase-2-semana-1.pdf" download>Semana 1</a> <small>· sesiones 1–5: saludar y decir mi nombre</small></li>
-  <li><a href="../pdf/fase-2-semana-2.pdf" download>Semana 2</a> <small>· sesiones 6–10: mi edad y cómo estoy</small></li>
-  <li><a href="../pdf/fase-2-semana-3.pdf" download>Semana 3</a> <small>· sesiones 11–15: Cultural Kitchen, pan con tomate</small></li>
-  <li><a href="../pdf/fase-2-semana-4.pdf" download>Semana 4</a> <small>· sesiones 16–20: presentar mi juguete</small></li>
-  <li><a href="../pdf/fase-2-anexos.pdf" download>Anexos del primer mes</a> <small>· cuento en 4 capítulos, juegos, evaluación inicial y registro semanal</small></li>
-  <li><a href="../pdf/fase-3-juegos.pdf" download>Banco de 40 juegos</a></li>
-  <li><a href="../pdf/fase-4-evaluacion.pdf" download>Evaluación</a> <small>· rúbrica oral, ficha trimestral e informe mensual</small></li>
-  <li><a href="../pdf/fase-4-plantillas.pdf" download>Plantillas de aula</a></li>
-  <li><a href="../pdf/fase-5-plan-b.pdf" download>Plan B y caja de emergencia</a></li>
-  <li><a href="../pdf/fase-5-preparacion.pdf" download>Preparación semanal y calendario</a></li>
-  <li><a href="../pdf/fase-5-protocolos.pdf" download>Protocolos</a> <small>· permisos, alergias, recogidas y seguridad</small></li>
+  <li><a href="@/fase-4/materiales/kit-imprimible.pdf" download>Kit imprimible</a> <small>32 páginas A4: diapositiva de bienvenida, tarjetas, ficha de Peppa, pasaporte, bingo y más</small></li>
+  <li><a href="@/pdf/primer-mes-completo.pdf" download>Primer mes completo</a> <small>las 20 sesiones, rutinas comunes y anexos en un solo archivo</small></li>
+  <li><a href="@/pdf/fase-2-semana-1.pdf" download>Semana 1</a> <small>sesiones 1–5: saludar y decir mi nombre</small></li>
+  <li><a href="@/pdf/fase-2-semana-2.pdf" download>Semana 2</a> <small>sesiones 6–10: mi edad y cómo estoy</small></li>
+  <li><a href="@/pdf/fase-2-semana-3.pdf" download>Semana 3</a> <small>sesiones 11–15: Cultural Kitchen, pan con tomate</small></li>
+  <li><a href="@/pdf/fase-2-semana-4.pdf" download>Semana 4</a> <small>sesiones 16–20: presentar mi juguete</small></li>
+  <li><a href="@/pdf/fase-2-anexos.pdf" download>Anexos del primer mes</a> <small>cuento en 4 capítulos, juegos, evaluación inicial y registro semanal</small></li>
+  <li><a href="@/pdf/fase-3-juegos.pdf" download>Banco de 40 juegos</a></li>
+  <li><a href="@/pdf/fase-4-evaluacion.pdf" download>Evaluación</a> <small>rúbrica oral, ficha trimestral e informe mensual</small></li>
+  <li><a href="@/pdf/fase-4-plantillas.pdf" download>Plantillas de aula</a></li>
+  <li><a href="@/pdf/fase-5-plan-b.pdf" download>Plan B y caja de emergencia</a></li>
+  <li><a href="@/pdf/fase-5-preparacion.pdf" download>Preparación semanal y calendario</a></li>
+  <li><a href="@/pdf/fase-5-protocolos.pdf" download>Protocolos</a> <small>permisos, alergias, recogidas y seguridad</small></li>
 </ul>
 
 ## Cada parte del programa en un archivo
 
 <ul class="lista-pdf">
-  <li><a href="../pdf/fase-1-diseno-maestro.pdf" download>Diseño del programa</a></li>
-  <li><a href="../pdf/primer-mes-completo.pdf" download>Primer mes</a></li>
-  <li><a href="../pdf/banco-de-recursos.pdf" download>Banco de recursos</a> <small>· juegos, canciones, Storytime, Peppa, cultura e ideas</small></li>
-  <li><a href="../pdf/materiales-y-evaluacion.pdf" download>Materiales y evaluación</a></li>
-  <li><a href="../pdf/guia-del-aula.pdf" download>Guía del aula</a> <small>· aula, edades mixtas, preparación, plan B, protocolos y problemas</small></li>
-  <li><a href="../pdf/programa-completo.pdf" download>Programa completo</a> <small>· todo lo anterior en un solo archivo, con marcadores</small></li>
+  <li><a href="@/pdf/fase-1-diseno-maestro.pdf" download>Diseño del programa</a></li>
+  <li><a href="@/pdf/primer-mes-completo.pdf" download>Primer mes</a></li>
+  <li><a href="@/pdf/banco-de-recursos.pdf" download>Banco de recursos</a> <small>juegos, canciones, Storytime, Peppa, cultura e ideas</small></li>
+  <li><a href="@/pdf/materiales-y-evaluacion.pdf" download>Materiales y evaluación</a></li>
+  <li><a href="@/pdf/guia-del-aula.pdf" download>Guía del aula</a> <small>aula, edades mixtas, preparación, plan B, protocolos y problemas</small></li>
+  <li><a href="@/pdf/programa-completo.pdf" download>Programa completo</a> <small>todo lo anterior en un solo archivo, con marcadores</small></li>
 </ul>

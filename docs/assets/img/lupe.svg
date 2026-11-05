@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 260" role="img" aria-labelledby="t">
+  <title id="t">Lupe, la lechuza viajera</title>
+  <!-- maleta -->
+  <g transform="translate(150 178) rotate(8)">
+    <rect x="0" y="10" width="72" height="54" rx="10" fill="#e4572e"/>
+    <rect x="24" y="0" width="24" height="14" rx="6" fill="none" stroke="#14213d" stroke-width="5"/>
+    <rect x="0" y="30" width="72" height="8" fill="#ffc145"/>
+    <circle cx="16" cy="52" r="5" fill="#fff" opacity=".8"/>
+  </g>
+  <!-- cuerpo -->
+  <ellipse cx="110" cy="160" rx="78" ry="88" fill="#6a4c93"/>
+  <ellipse cx="110" cy="182" rx="50" ry="58" fill="#f3e3c3"/>
+  <path d="M86 170q8 8 16 0M110 186q8 8 16 0M86 202q8 8 16 0M118 160q8 8 16 0" stroke="#d9b98a" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- alas -->
+  <path d="M34 140q-22 50 10 92q14-34 8-80z" fill="#563a7c"/>
+  <path d="M186 140q22 50-10 92q-14-34-8-80z" fill="#563a7c"/>
+  <!-- orejas -->
+  <path d="M48 92 40 40 84 76z" fill="#6a4c93"/>
+  <path d="M172 92 180 40 136 76z" fill="#6a4c93"/>
+  <!-- cara -->
+  <ellipse cx="80" cy="112" rx="34" ry="34" fill="#fff"/>
+  <ellipse cx="140" cy="112" rx="34" ry="34" fill="#fff"/>
+  <g class="lupe-ojos">
+    <circle cx="84" cy="114" r="15" fill="#14213d"/>
+    <circle cx="136" cy="114" r="15" fill="#14213d"/>
+    <circle cx="89" cy="108" r="5" fill="#fff"/>
+    <circle cx="141" cy="108" r="5" fill="#fff"/>
+  </g>
+  <path d="M110 128l-12 10 12 18 12-18z" fill="#ffc145"/>
+  <!-- bufanda -->
+  <path d="M46 150q64 30 128 0l4 16q-68 30-136 0z" fill="#0b7a75"/>
+  <path d="M150 162l14 40 14-6-10-38z" fill="#0b7a75"/>
+  <!-- patas -->
+  <path d="M84 244v10M94 244v10M126 244v10M136 244v10" stroke="#ffc145" stroke-width="6" stroke-linecap="round"/>
+</svg>
