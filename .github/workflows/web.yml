@@ -39,6 +39,34 @@ jobs:
       - name: Generar los PDF
         run: python scripts/generar_pdfs.py site
 
+      - name: Paquete HTML para subir a otra web
+        env:
+          NO_MKDOCS_2_WARNING: "1"
+          OFFLINE: "true"
+        run: |
+          mkdocs build --strict -d paquete/pasaporte-al-espanol
+          python scripts/generar_pdfs.py paquete/pasaporte-al-espanol
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pasaporte-al-espanol-html
+          path: paquete/
+
+      # Sube el paquete a tu propia web por FTP. Solo en main y si existen los
+      # secretos FTP_SERVER, FTP_USERNAME y FTP_PASSWORD (opcional FTP_DIR,
+      # carpeta de destino; por defecto /public_html/espanol/).
+      - name: Subir a mi web por FTP
+        if: github.event_name != 'pull_request' && env.FTP_SERVER != ''
+        env:
+          FTP_SERVER: ${{ secrets.FTP_SERVER }}
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: paquete/pasaporte-al-espanol/
+          server-dir: ${{ secrets.FTP_DIR || '/public_html/espanol/' }}
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
