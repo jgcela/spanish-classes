@@ -51,9 +51,13 @@ theme:
 extra_css:
   - assets/estilos.css
 
+extra_javascript:
+  - assets/planificador.js
+
 hooks:
   - hooks/listas.py
   - hooks/enlaces.py
+  - hooks/planificador.py
 
 plugins:
   - search:
@@ -185,4 +189,5 @@ nav:
       - Plan B: fase-5/plan-b.md
       - Protocolos: fase-5/protocolos.md
       - Problemas frecuentes: fase-5/problemas-frecuentes.md
+  - Planificador: planificador.md
   - Descargas: descargas.md

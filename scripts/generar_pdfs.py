@@ -27,7 +27,7 @@ DOCS = RAIZ / "docs"
 SITIO = Path(sys.argv[1] if len(sys.argv) > 1 else RAIZ / "site").resolve()
 SALIDA = SITIO / "pdf"
 
-EXCLUIR = {"index.md", "descargas.md"}
+EXCLUIR = {"index.md", "descargas.md", "planificador.md"}
 
 # Orden de lectura (igual que el menú de mkdocs.yml)
 PARTES: dict[str, tuple[str, list[str]]] = {

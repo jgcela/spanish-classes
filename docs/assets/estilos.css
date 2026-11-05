@@ -599,3 +599,57 @@ button:focus-visible {
 
 /* Evita la doble raya cuando el texto ya trae una línea horizontal antes del título */
 .md-typeset hr + h2 { margin-top: 1.2em; }
+
+/* =====================================================================
+   PLANIFICADOR DEL CURSO (docs/planificador.md)
+   ===================================================================== */
+.planificador { margin-top: 1rem; }
+.pl-panel fieldset {
+  border: 1px solid color-mix(in srgb, var(--md-typeset-color) 18%, transparent);
+  border-radius: var(--radio);
+  background: var(--tarjeta-fondo);
+  padding: .8rem 1rem 1rem;
+  margin: 0 0 1rem;
+}
+.pl-panel legend { font-family: var(--fuente-titulos); font-weight: 600; font-size: 1.05rem; padding: 0 .4rem; color: var(--acento); }
+.pl-fila { display: flex; flex-wrap: wrap; gap: .6rem 1rem; align-items: center; margin: .4rem 0; }
+.pl-panel label { display: inline-flex; gap: .35rem; align-items: center; }
+.pl-panel .pl-radio, .pl-panel .pl-check { display: block; margin: .45rem 0; }
+.pl-panel input[type="date"], .pl-panel input[type="text"], .pl-panel select {
+  font: inherit; font-size: .8rem; padding: .3rem .45rem;
+  border: 1px solid color-mix(in srgb, var(--md-typeset-color) 35%, transparent);
+  border-radius: 8px; background: var(--md-default-bg-color); color: var(--md-typeset-color);
+}
+.pl-ayuda, .pl-sub { font-size: .72rem; opacity: .8; margin: .2rem 0 .5rem; }
+.pl-etiqueta { font-weight: 600; }
+.pl-festivo { display: flex; flex-wrap: wrap; gap: .4rem .8rem; align-items: center; padding: .35rem 0; border-bottom: 1px dashed color-mix(in srgb, var(--md-typeset-color) 15%, transparent); }
+.pl-motivo { flex: 1 1 14rem; }
+.pl-motivo input { flex: 1; min-width: 0; }
+.pl-quitar, .pl-enlace { background: none; border: 0; cursor: pointer; color: var(--acento); font: inherit; padding: .2rem .4rem; }
+.pl-enlace { text-decoration: underline; padding: 0; }
+.pl-bloques { display: grid; gap: .3rem; }
+.pl-bloque { display: flex; flex-wrap: wrap; gap: .3rem .9rem; align-items: center; }
+.pl-bloque__nombre { min-width: 13rem; font-weight: 600; }
+.md-typeset .pl-acciones .md-button { margin: 0; font-size: .7rem; padding: .45em 1em; }
+.pl-importar { cursor: pointer; }
+.pl-cifras { display: grid; grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr)); gap: .6rem; margin: .6rem 0; }
+.pl-cifra { background: var(--resaltado-fondo); border-radius: 12px; padding: .6rem .8rem; }
+.pl-cifra strong { display: block; font-family: var(--fuente-titulos); font-size: 1.6rem; color: var(--acento); line-height: 1.1; }
+.pl-cifra span { font-size: .72rem; }
+.pl-aviso { border-left: 4px solid var(--teal); background: var(--resaltado-fondo); padding: .5rem .8rem; border-radius: 0 10px 10px 0; }
+.pl-aviso--mal { border-left-color: var(--coral); }
+.pl-aviso--bien { border-left-color: var(--verde); }
+.md-typeset .pl-tabla { width: 100%; font-size: .74rem; display: table; }
+.md-typeset .pl-tabla td:first-child { white-space: nowrap; }
+.md-typeset .pl-tabla .pl-cab th { background: var(--resaltado-fondo); text-align: left; font-weight: 600; }
+.md-typeset .pl-libre td, .md-typeset .pl-repaso td { opacity: .7; font-style: italic; }
+.md-typeset .pl-saltada td { opacity: .75; text-decoration: line-through; text-decoration-thickness: 1px; }
+.md-typeset .pl-saltada td em { text-decoration: none; display: inline-block; }
+
+@media print {
+  .pl-panel, .md-typeset .admonition.info, .md-sidebar, .md-header, .md-tabs, .md-footer { display: none !important; }
+  .md-typeset .pl-tabla { font-size: 8.5pt; }
+  .md-typeset .pl-tabla .pl-cab th { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .md-typeset .pl-tabla tr { break-inside: avoid; }
+  .pl-cifra { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}
