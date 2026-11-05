@@ -117,5 +117,5 @@ jobs:
             mkdir -p -f '$DESTINO';
             mirror --reverse --parallel=5 --verbose=1 paquete/pasaporte-al-espanol/ '$DESTINO';
             chmod 755 '$DESTINO';
-            cls -ld '$DESTINO' '$DESTINO/index.html' '$DESTINO/assets';
+            cls -l '$DESTINO';
             quit"
