@@ -5,6 +5,11 @@ on:
     branches: [main]
   pull_request:
   workflow_dispatch:
+    inputs:
+      diagnostico:
+        description: "Solo listar el servidor SFTP, sin subir nada"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -93,9 +98,8 @@ jobs:
           dir="${FTP_DIR:-/public_html/javiercela-me/spanish/}"
           dir="$(echo "$dir" | xargs)"
           case "$dir" in */) ;; *) dir="$dir/" ;; esac
-          # Por SFTP, "/public_html/..." apunta a la raíz del servidor, no a la
-          # cuenta del usuario: se usa la ruta relativa a la carpeta de inicio.
-          dir="${dir#/}"
+          # Ruta absoluta dentro de la cuenta SFTP (empieza por /).
+          case "$dir" in /*) ;; *) dir="/$dir" ;; esac
           echo "dir=$dir" >> "$GITHUB_OUTPUT"
 
       - name: Subir a mi web por SFTP
@@ -113,6 +117,16 @@ jobs:
           find paquete/pasaporte-al-espanol -type d -exec chmod 755 {} +
           find paquete/pasaporte-al-espanol -type f -exec chmod 644 {} +
           servidor="$(echo "$SERVIDOR" | xargs | sed -E 's#^(s?ftp|sftp)://##; s#/.*$##')"
+          if [ "${{ inputs.diagnostico }}" = "true" ]; then
+            lftp -p "${PUERTO:-22}" -u "$USUARIO","$CLAVE" "sftp://$servidor" -e "
+              set sftp:auto-confirm yes;
+              echo '--- pwd'; pwd;
+              echo '--- /'; cls -l /;
+              echo '--- /public_html'; cls -l /public_html/;
+              echo '--- destino'; cls -l '$DESTINO';
+              quit" || true
+            exit 0
+          fi
           lftp -p "${PUERTO:-22}" -u "$USUARIO","$CLAVE" "sftp://$servidor" -e "
             set sftp:auto-confirm yes;
             set net:max-retries 2;
@@ -120,6 +134,5 @@ jobs:
             mkdir -p -f '$DESTINO';
             mirror --reverse --parallel=5 --verbose=1 paquete/pasaporte-al-espanol/ '$DESTINO';
             chmod 755 '$DESTINO';
-            pwd;
             cls -l '$DESTINO';
             quit"
