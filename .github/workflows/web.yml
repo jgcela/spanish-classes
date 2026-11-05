@@ -93,6 +93,9 @@ jobs:
           dir="${FTP_DIR:-/public_html/javiercela-me/spanish/}"
           dir="$(echo "$dir" | xargs)"
           case "$dir" in */) ;; *) dir="$dir/" ;; esac
+          # Por SFTP, "/public_html/..." apunta a la raíz del servidor, no a la
+          # cuenta del usuario: se usa la ruta relativa a la carpeta de inicio.
+          dir="${dir#/}"
           echo "dir=$dir" >> "$GITHUB_OUTPUT"
 
       - name: Subir a mi web por SFTP
@@ -117,5 +120,6 @@ jobs:
             mkdir -p -f '$DESTINO';
             mirror --reverse --parallel=5 --verbose=1 paquete/pasaporte-al-espanol/ '$DESTINO';
             chmod 755 '$DESTINO';
+            pwd;
             cls -l '$DESTINO';
             quit"
