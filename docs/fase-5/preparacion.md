@@ -58,6 +58,8 @@ Se hace una vez por semana, por ejemplo el viernes por la tarde o el domingo. La
 
 ## 4. Calendario del curso (vista de la profesora)
 
+> **Fechas reales del curso 2026–27** (agosto a mayo), festivos y qué sesiones mover: [calendario 2026–27](../calendario-2026-27.md).
+
 | Semanas | Bloque | Hitos de preparación y gestión |
 |---|---|---|
 | 0 | — | Semana 0 (§1) |
