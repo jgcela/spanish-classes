@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <meta name="robots" content="noindex, nofollow">
+{% endblock %}
+
+{% block content %}
+  {% set src = page.file.src_uri %}
+  {% if src not in ["index.md", "descargas.md"] %}
+    {% set slug = src[:-3] | replace("/README", "/resumen") | replace("/", "-") %}
+    <div class="acciones-pagina" role="group" aria-label="Opciones de impresión">
+      <a class="md-button md-button--primary" href="{{ base_url }}/pdf/{{ slug }}.pdf" download>
+        {% include ".icons/material/file-pdf-box.svg" %} Descargar PDF
+      </a>
+      <button type="button" class="md-button" onclick="window.print()">
+        {% include ".icons/material/printer.svg" %} Imprimir
+      </button>
+    </div>
+  {% endif %}
+  {{ super() }}
+{% endblock %}
